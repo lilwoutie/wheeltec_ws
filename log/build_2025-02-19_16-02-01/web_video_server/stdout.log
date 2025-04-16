@@ -1,0 +1,4 @@
+[  9%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/ros_compressed_streamer.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/png_streamers.cpp.o[0m
+[ 27%] [32m[1mLinking CXX executable web_video_server[0m
+[100%] Built target web_video_server

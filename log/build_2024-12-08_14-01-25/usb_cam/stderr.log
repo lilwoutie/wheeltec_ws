@@ -1,0 +1,114 @@
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:[m[K In member function ‘[01m[Kint usb_cam::UsbCam::init_mjpeg_decoder(int, int)[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:75:24:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid avcodec_register_all()[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   75 |   avcodec_register_all([01;35m[K)[m[K;
+      |                        [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:4159:6:[m[K [01;36m[Knote: [m[Kdeclared here
+ 4159 | void [01;36m[Kavcodec_register_all[m[K(void);
+      |      [01;36m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:75:24:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid avcodec_register_all()[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   75 |   avcodec_register_all([01;35m[K)[m[K;
+      |                        [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:4159:6:[m[K [01;36m[Knote: [m[Kdeclared here
+ 4159 | void [01;36m[Kavcodec_register_all[m[K(void);
+      |      [01;36m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:93:93:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_alloc(AVPicture*, AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   93 |     reinterpret_cast<AVPicture *>(avframe_rgb_), AV_PIX_FMT_RGB24, image_width, image_height[01;35m[K)[m[K;
+      |                                                                                             [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5483:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 5483 | int [01;36m[Kavpicture_alloc[m[K(AVPicture *picture, enum AVPixelFormat pix_fmt, int width, int height);
+      |     [01;36m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:93:93:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_alloc(AVPicture*, AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   93 |     reinterpret_cast<AVPicture *>(avframe_rgb_), AV_PIX_FMT_RGB24, image_width, image_height[01;35m[K)[m[K;
+      |                                                                                             [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5483:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 5483 | int [01;36m[Kavpicture_alloc[m[K(AVPicture *picture, enum AVPixelFormat pix_fmt, int width, int height);
+      |     [01;36m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:108:90:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  108 |   avframe_camera_size_ = avpicture_get_size(AV_PIX_FMT_YUV422P, image_width, image_height[01;35m[K)[m[K;
+      |                                                                                          [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:108:90:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  108 |   avframe_camera_size_ = avpicture_get_size(AV_PIX_FMT_YUV422P, image_width, image_height[01;35m[K)[m[K;
+      |                                                                                          [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:109:85:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  109 |   avframe_rgb_size_ = avpicture_get_size(AV_PIX_FMT_RGB24, image_width, image_height[01;35m[K)[m[K;
+      |                                                                                     [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:109:85:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  109 |   avframe_rgb_size_ = avpicture_get_size(AV_PIX_FMT_RGB24, image_width, image_height[01;35m[K)[m[K;
+      |                                                                                     [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:[m[K In member function ‘[01m[Kbool usb_cam::UsbCam::mjpeg2rgb(char*, int, char*, int)[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:142:94:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avcodec_decode_video2(AVCodecContext*, AVFrame*, int*, const AVPacket*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  142 |   decoded_len = avcodec_decode_video2(avcodec_context_, avframe_camera_, &got_picture, &avpkt[01;35m[K)[m[K;
+      |                                                                                              [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:4828:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 4828 | int [01;36m[Kavcodec_decode_video2[m[K(AVCodecContext *avctx, AVFrame *picture,
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:142:94:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avcodec_decode_video2(AVCodecContext*, AVFrame*, int*, const AVPacket*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  142 |   decoded_len = avcodec_decode_video2(avcodec_context_, avframe_camera_, &got_picture, &avpkt[01;35m[K)[m[K;
+      |                                                                                              [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:4828:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 4828 | int [01;36m[Kavcodec_decode_video2[m[K(AVCodecContext *avctx, AVFrame *picture,
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:161:76:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  161 |   int pic_size = avpicture_get_size(avcodec_context_->pix_fmt, xsize, ysize[01;35m[K)[m[K;
+      |                                                                            [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:161:76:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  161 |   int pic_size = avpicture_get_size(avcodec_context_->pix_fmt, xsize, ysize[01;35m[K)[m[K;
+      |                                                                            [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:189:70:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_layout(const AVPicture*, AVPixelFormat, int, int, unsigned char*, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  189 |     xsize, ysize, reinterpret_cast<uint8_t *>(RGB), avframe_rgb_size_[01;35m[K)[m[K;
+      |                                                                      [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5502:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 5502 | int [01;36m[Kavpicture_layout[m[K(const AVPicture *src, enum AVPixelFormat pix_fmt,
+      |     [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:189:70:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_layout(const AVPicture*, AVPixelFormat, int, int, unsigned char*, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  189 |     xsize, ysize, reinterpret_cast<uint8_t *>(RGB), avframe_rgb_size_[01;35m[K)[m[K;
+      |                                                                      [01;35m[K^[m[K
+In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5502:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 5502 | int [01;36m[Kavpicture_layout[m[K(const AVPicture *src, enum AVPixelFormat pix_fmt,
+      |     [01;36m[K^~~~~~~~~~~~~~~~[m[K

@@ -1,0 +1,90 @@
+[0.083s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_lidar_ros2/LDlidar/ldlidar06 -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2
+[0.363s] -- The C compiler identification is GNU 9.4.0
+[0.625s] -- The CXX compiler identification is GNU 9.4.0
+[0.666s] -- Check for working C compiler: /usr/bin/cc
+[1.081s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.089s] -- Detecting C compiler ABI info
+[1.485s] -- Detecting C compiler ABI info - done
+[1.538s] -- Detecting C compile features
+[1.540s] -- Detecting C compile features - done
+[1.553s] -- Check for working CXX compiler: /usr/bin/c++
+[1.970s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.974s] -- Detecting CXX compiler ABI info
+[2.418s] -- Detecting CXX compiler ABI info - done
+[2.510s] -- Detecting CXX compile features
+[2.512s] -- Detecting CXX compile features - done
+[2.563s] -- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+[2.816s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.817s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.679s] -- Found rclcpp: 9.2.2 (/opt/ros/galactic/share/rclcpp/cmake)
+[4.330s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.462s] -- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[5.151s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[5.325s] -- Found FastRTPS: /opt/ros/galactic/include  
+[5.979s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.515s] -- Found rmw_implementation_cmake: 3.3.1 (/opt/ros/galactic/share/rmw_implementation_cmake/cmake)
+[6.579s] -- Found rmw_cyclonedds_cpp: 0.22.6 (/opt/ros/galactic/share/rmw_cyclonedds_cpp/cmake)
+[6.720s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[6.728s] -- Looking for pthread.h
+[7.137s] -- Looking for pthread.h - found
+[7.138s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[7.537s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[7.539s] -- Looking for pthread_create in pthreads
+[7.888s] -- Looking for pthread_create in pthreads - not found
+[7.894s] -- Looking for pthread_create in pthread
+[8.294s] -- Looking for pthread_create in pthread - found
+[8.306s] -- Found Threads: TRUE  
+[9.307s] -- Found sensor_msgs: 2.2.4 (/opt/ros/galactic/share/sensor_msgs/cmake)
+[9.895s] -- Found ament_lint_auto: 0.10.7 (/opt/ros/galactic/share/ament_lint_auto/cmake)
+[10.617s] -- Added test 'copyright' to check source files copyright and LICENSE
+[10.630s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[10.632s] -- Configured cppcheck include dirs: /home/wheeltec/wheeltec_ros2/src/wheeltec_lidar_ros2/LDlidar/ldlidar06/include;/home/wheeltec/wheeltec_ros2/src/wheeltec_lidar_ros2/LDlidar/ldlidar06/include/ldlidar_driver/include
+[10.632s] -- Configured cppcheck exclude dirs and/or files: 
+[10.645s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[10.645s] -- Configured cpplint exclude dirs and/or files: 
+[10.651s] -- Added test 'flake8' to check Python code syntax and style conventions
+[10.659s] -- Added test 'lint_cmake' to check CMake code style
+[10.665s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[10.677s] -- Added test 'uncrustify' to check C / C++ code style
+[10.677s] -- Configured uncrustify additional arguments: 
+[10.684s] -- Added test 'xmllint' to check XML markup files
+[10.705s] -- Configuring done
+[10.743s] -- Generating done
+[10.763s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2
+[10.805s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_lidar_ros2/LDlidar/ldlidar06 -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2
+[10.810s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2 -- -j4 -l4
+[11.090s] [35m[1mScanning dependencies of target ldlidar_stl_ros2_node[0m
+[11.403s] [ 20%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/src/demo.cpp.o[0m
+[31.661s] [ 40%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/include/ldlidar_driver/tofbf.cpp.o[0m
+[32.893s] [ 60%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/include/ldlidar_driver/lipkg.cpp.o[0m
+[36.701s] [ 80%] [32mBuilding CXX object CMakeFiles/ldlidar_stl_ros2_node.dir/include/ldlidar_driver/cmd_interface_linux.cpp.o[0m
+[39.623s] [100%] [32m[1mLinking CXX executable ldlidar_stl_ros2_node[0m
+[40.516s] [100%] Built target ldlidar_stl_ros2_node
+[40.583s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2 -- -j4 -l4
+[40.587s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2
+[40.639s] -- Install configuration: ""
+[40.640s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/lib/ldlidar_stl_ros2/ldlidar_stl_ros2_node
+[40.645s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/lib/ldlidar_stl_ros2/ldlidar_stl_ros2_node" to ""
+[40.647s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//launch
+[40.647s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//launch/ld19.launch.py
+[40.648s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//launch/viewer_ld06.launch.py
+[40.649s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//launch/viewer_ld19.launch.py
+[40.649s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//launch/ld06.launch.py
+[40.650s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//rviz2
+[40.650s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2//rviz2/ldlidar.rviz
+[40.654s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ament_index/resource_index/package_run_dependencies/ldlidar_stl_ros2
+[40.658s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ament_index/resource_index/parent_prefix_path/ldlidar_stl_ros2
+[40.658s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/environment/ament_prefix_path.sh
+[40.659s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/environment/ament_prefix_path.dsv
+[40.660s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/environment/path.sh
+[40.660s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/environment/path.dsv
+[40.661s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/local_setup.bash
+[40.661s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/local_setup.sh
+[40.662s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/local_setup.zsh
+[40.663s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/local_setup.dsv
+[40.663s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/package.dsv
+[40.664s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ament_index/resource_index/packages/ldlidar_stl_ros2
+[40.665s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/cmake/ldlidar_stl_ros2Config.cmake
+[40.672s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/cmake/ldlidar_stl_ros2Config-version.cmake
+[40.673s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/ldlidar_stl_ros2/share/ldlidar_stl_ros2/package.xml
+[40.687s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/ldlidar_stl_ros2

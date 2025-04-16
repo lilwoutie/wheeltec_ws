@@ -1,0 +1,22 @@
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_rrt2/src/robot_pose_publisher.cpp:[m[K In constructor ‘[01m[KBoxPickupPosePublisher::BoxPickupPosePublisher()[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_rrt2/src/robot_pose_publisher.cpp:215:10:[m[K [01;35m[Kwarning: [m[K‘[01m[KBoxPickupPosePublisher::canTransformBasefootprint[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+  215 |     bool [01;35m[KcanTransformBasefootprint[m[K = false;
+      |          [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_rrt2/src/robot_pose_publisher.cpp:213:21:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Ktf2_ros::Buffer BoxPickupPosePublisher::tf_buffer_[m[K’ [[01;35m[K-Wreorder[m[K]
+  213 |     tf2_ros::Buffer [01;35m[Ktf_buffer_[m[K;
+      |                     [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_rrt2/src/robot_pose_publisher.cpp:18:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   18 |     [01;35m[KBoxPickupPosePublisher[m[K()
+      |     [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_rrt2/src/robot_pose_publisher.cpp:[m[K In member function ‘[01m[Kvoid BoxPickupPosePublisher::get_base_footprint_transform(geometry_msgs::msg::TransformStamped&)[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_rrt2/src/robot_pose_publisher.cpp:109:44:[m[K [01;35m[Kwarning: [m[Kcatching polymorphic type ‘[01m[Kclass tf2::TransformException[m[K’ by value [[01;35m[K-Wcatch-value=[m[K]
+  109 |             catch (tf2::TransformException [01;35m[Kex[m[K)
+      |                                            [01;35m[K^~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_rrt2/src/robot_pose_publisher.cpp:[m[K In member function ‘[01m[Kvoid BoxPickupPosePublisher::get_goal_pose(const float&, const float&, const float&, const float&, geometry_msgs::msg::Pose&)[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_rrt2/src/robot_pose_publisher.cpp:132:15:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kunit_through_vector_z[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  132 |         float [01;35m[Kunit_through_vector_z[m[K = 0.0;
+      |               [01;35m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_rrt2/src/robot_pose_publisher.cpp:[m[K In member function ‘[01m[Kvoid BoxPickupPosePublisher::lidar_camera_fusion_sub_topic_callback(sensor_msgs::msg::PointCloud2_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_robot_rrt2/src/robot_pose_publisher.cpp:186:33:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<std::vector<float> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  186 |                 for(int i = 0; [01;35m[Ki< red_line.size()[m[K; i++){
+      |                                [01;35m[K~^~~~~~~~~~~~~~~~~[m[K

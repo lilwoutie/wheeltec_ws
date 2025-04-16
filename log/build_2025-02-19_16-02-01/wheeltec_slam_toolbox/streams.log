@@ -1,0 +1,35 @@
+[0.061s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_slam_toolbox': /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/wheeltec_slam_toolbox -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/wheeltec_slam_toolbox
+[0.520s] -- The C compiler identification is GNU 9.4.0
+[0.830s] -- The CXX compiler identification is GNU 9.4.0
+[0.864s] -- Check for working C compiler: /usr/bin/cc
+[1.269s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.275s] -- Detecting C compiler ABI info
+[1.705s] -- Detecting C compiler ABI info - done
+[1.776s] -- Detecting C compile features
+[1.784s] -- Detecting C compile features - done
+[1.789s] -- Check for working CXX compiler: /usr/bin/c++
+[2.106s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.113s] -- Detecting CXX compiler ABI info
+[2.569s] -- Detecting CXX compiler ABI info - done
+[2.706s] -- Detecting CXX compile features
+[2.708s] -- Detecting CXX compile features - done
+[2.809s] CMake Error at CMakeLists.txt:19 (find_package):
+[2.809s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[2.810s]   has asked CMake to find a package configuration file provided by
+[2.810s]   "ament_cmake", but CMake did not find one.
+[2.811s] 
+[2.811s]   Could not find a package configuration file provided by "ament_cmake" with
+[2.812s]   any of the following names:
+[2.812s] 
+[2.813s]     ament_cmakeConfig.cmake
+[2.813s]     ament_cmake-config.cmake
+[2.813s] 
+[2.814s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[2.814s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[2.815s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[2.816s]   has been installed.
+[2.816s] 
+[2.817s] 
+[2.817s] -- Configuring incomplete, errors occurred!
+[2.817s] See also "/home/wheeltec/wheeltec_ros2/src/build/wheeltec_slam_toolbox/CMakeFiles/CMakeOutput.log".
+[2.836s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_slam_toolbox' returned '1': /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/wheeltec_slam_toolbox -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/wheeltec_slam_toolbox

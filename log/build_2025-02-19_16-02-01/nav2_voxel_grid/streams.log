@@ -1,0 +1,34 @@
+[0.101s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/nav2_voxel_grid': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/nav2_voxel_grid -- -j4 -l4
+[0.683s] [ 20%] Built target gtest_main
+[0.729s] [ 40%] Built target gtest
+[0.845s] [ 60%] Built target voxel_grid
+[1.167s] [ 80%] Built target voxel_grid_bresenham_3d
+[1.211s] [100%] Built target voxel_grid_tests
+[1.293s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/nav2_voxel_grid' returned '0': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/nav2_voxel_grid -- -j4 -l4
+[1.303s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/nav2_voxel_grid': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/nav2_voxel_grid
+[1.456s] -- Install configuration: "Release"
+[1.459s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/lib/libvoxel_grid.so
+[1.461s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/include
+[1.462s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/include/nav2_voxel_grid
+[1.463s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/include/nav2_voxel_grid/voxel_grid.hpp
+[1.464s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/environment/library_path.sh
+[1.468s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/environment/library_path.dsv
+[1.469s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/ament_index/resource_index/package_run_dependencies/nav2_voxel_grid
+[1.469s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/ament_index/resource_index/parent_prefix_path/nav2_voxel_grid
+[1.473s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/environment/ament_prefix_path.sh
+[1.475s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/environment/ament_prefix_path.dsv
+[1.475s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/environment/path.sh
+[1.476s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/environment/path.dsv
+[1.480s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/local_setup.bash
+[1.497s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/local_setup.sh
+[1.497s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/local_setup.zsh
+[1.514s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/local_setup.dsv
+[1.515s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/package.dsv
+[1.516s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/ament_index/resource_index/packages/nav2_voxel_grid
+[1.519s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.520s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.521s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/cmake/ament_cmake_export_libraries-extras.cmake
+[1.521s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/cmake/nav2_voxel_gridConfig.cmake
+[1.523s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/cmake/nav2_voxel_gridConfig-version.cmake
+[1.524s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_voxel_grid/share/nav2_voxel_grid/package.xml
+[1.527s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/nav2_voxel_grid' returned '0': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/nav2_voxel_grid

@@ -1,0 +1,129 @@
+[0.105s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/openslam_gmapping -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping
+[0.487s] -- The C compiler identification is GNU 9.4.0
+[0.829s] -- The CXX compiler identification is GNU 9.4.0
+[0.864s] -- Check for working C compiler: /usr/bin/cc
+[1.355s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.364s] -- Detecting C compiler ABI info
+[1.772s] -- Detecting C compiler ABI info - done
+[1.825s] -- Detecting C compile features
+[1.827s] -- Detecting C compile features - done
+[1.840s] -- Check for working CXX compiler: /usr/bin/c++
+[2.288s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.293s] -- Detecting CXX compiler ABI info
+[2.732s] -- Detecting CXX compiler ABI info - done
+[2.787s] -- Detecting CXX compile features
+[2.791s] -- Detecting CXX compile features - done
+[2.839s] -- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+[3.052s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.054s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.305s] -- Configuring done
+[4.414s] -- Generating done
+[4.431s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping
+[4.456s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/openslam_gmapping -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping
+[4.459s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping -- -j4 -l4
+[4.726s] [35m[1mScanning dependencies of target utils[0m
+[4.800s] [  4%] [32mBuilding CXX object utils/CMakeFiles/utils.dir/movement.cpp.o[0m
+[6.201s] [  9%] [32mBuilding CXX object utils/CMakeFiles/utils.dir/stat.cpp.o[0m
+[7.602s] [ 13%] [32m[1mLinking CXX static library libutils.a[0m
+[7.808s] [ 13%] Built target utils
+[7.876s] [35m[1mScanning dependencies of target sensor_base[0m
+[7.967s] [ 18%] [32mBuilding CXX object sensor/sensor_base/CMakeFiles/sensor_base.dir/sensor.cpp.o[0m
+[8.983s] [ 22%] [32mBuilding CXX object sensor/sensor_base/CMakeFiles/sensor_base.dir/sensorreading.cpp.o[0m
+[9.965s] [ 27%] [32m[1mLinking CXX static library libsensor_base.a[0m
+[10.403s] [ 27%] Built target sensor_base
+[10.468s] [35m[1mScanning dependencies of target sensor_range[0m
+[10.553s] [ 31%] [32mBuilding CXX object sensor/sensor_range/CMakeFiles/sensor_range.dir/rangereading.cpp.o[0m
+[12.889s] [ 36%] [32mBuilding CXX object sensor/sensor_range/CMakeFiles/sensor_range.dir/rangesensor.cpp.o[0m
+[14.652s] [ 40%] [32m[1mLinking CXX static library libsensor_range.a[0m
+[14.861s] [ 40%] Built target sensor_range
+[14.930s] [35m[1mScanning dependencies of target sensor_odometry[0m
+[15.012s] [ 45%] [32mBuilding CXX object sensor/sensor_odometry/CMakeFiles/sensor_odometry.dir/odometryreading.cpp.o[0m
+[16.448s] [ 50%] [32mBuilding CXX object sensor/sensor_odometry/CMakeFiles/sensor_odometry.dir/odometrysensor.cpp.o[0m
+[17.548s] [ 54%] [32m[1mLinking CXX static library libsensor_odometry.a[0m
+[17.750s] [ 54%] Built target sensor_odometry
+[17.813s] [35m[1mScanning dependencies of target scanmatcher[0m
+[17.916s] [ 59%] [32mBuilding CXX object scanmatcher/CMakeFiles/scanmatcher.dir/eig3.cpp.o[0m
+[18.658s] [ 63%] [32mBuilding CXX object scanmatcher/CMakeFiles/scanmatcher.dir/smmap.cpp.o[0m
+[20.081s] [ 68%] [32mBuilding CXX object scanmatcher/CMakeFiles/scanmatcher.dir/scanmatcherprocessor.cpp.o[0m
+[23.077s] [ 72%] [32mBuilding CXX object scanmatcher/CMakeFiles/scanmatcher.dir/scanmatcher.cpp.o[0m
+[29.357s] [ 77%] [32m[1mLinking CXX static library libscanmatcher.a[0m
+[29.716s] [ 77%] Built target scanmatcher
+[29.788s] [35m[1mScanning dependencies of target gridfastslam[0m
+[29.910s] [ 81%] [32mBuilding CXX object gridfastslam/CMakeFiles/gridfastslam.dir/gfsreader.cpp.o[0m
+[34.555s] [ 86%] [32mBuilding CXX object gridfastslam/CMakeFiles/gridfastslam.dir/motionmodel.cpp.o[0m
+[36.045s] [ 90%] [32mBuilding CXX object gridfastslam/CMakeFiles/gridfastslam.dir/gridslamprocessor_tree.cpp.o[0m
+[39.697s] [ 95%] [32mBuilding CXX object gridfastslam/CMakeFiles/gridfastslam.dir/gridslamprocessor.cpp.o[0m
+[47.044s] [100%] [32m[1mLinking CXX static library libgridfastslam.a[0m
+[47.289s] [100%] Built target gridfastslam
+[47.369s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping -- -j4 -l4
+[47.372s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping
+[47.432s] -- Install configuration: ""
+[47.434s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/library_path.sh
+[47.435s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/library_path.dsv
+[47.437s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include/
+[47.438s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping
+[47.439s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/gridfastslam
+[47.441s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/gridfastslam/gridslamprocessor.hxx
+[47.442s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/gridfastslam/motionmodel.h
+[47.444s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/gridfastslam/gridslamprocessor.h
+[47.445s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/utils
+[47.446s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/utils/macro_params.h
+[47.447s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/utils/point.h
+[47.449s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/utils/gvalues.h
+[47.450s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/utils/stat.h
+[47.451s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/utils/commandline.h
+[47.460s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/utils/autoptr.h
+[47.461s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/particlefilter
+[47.461s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/particlefilter/particlefilter.h
+[47.462s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/sensor
+[47.462s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/sensor/sensor_range
+[47.463s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/sensor/sensor_range/rangereading.h
+[47.463s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/sensor/sensor_range/rangesensor.h
+[47.464s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/sensor/sensor_odometry
+[47.468s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/sensor/sensor_odometry/odometrysensor.h
+[47.469s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/sensor/sensor_odometry/odometryreading.h
+[47.469s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/sensor/sensor_base
+[47.470s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/sensor/sensor_base/sensor.h
+[47.471s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/sensor/sensor_base/sensorreading.h
+[47.471s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/grid
+[47.472s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/grid/accessstate.h
+[47.480s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/grid/array2d.h
+[47.480s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/grid/map.h
+[47.481s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/grid/harray2d.h
+[47.483s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/log
+[47.484s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/log/configuration.h
+[47.485s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/log/sensorlog.h
+[47.486s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/scanmatcher
+[47.487s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/scanmatcher/icp.h
+[47.488s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/scanmatcher/smmap.h
+[47.489s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/include//gmapping/scanmatcher/scanmatcher.h
+[47.491s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/ament_index/resource_index/package_run_dependencies/openslam_gmapping
+[47.493s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/ament_index/resource_index/parent_prefix_path/openslam_gmapping
+[47.494s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/ament_prefix_path.sh
+[47.496s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/ament_prefix_path.dsv
+[47.498s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/path.sh
+[47.500s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/path.dsv
+[47.501s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/local_setup.bash
+[47.502s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/local_setup.sh
+[47.503s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/local_setup.zsh
+[47.504s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/local_setup.dsv
+[47.505s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/package.dsv
+[47.506s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/ament_index/resource_index/packages/openslam_gmapping
+[47.507s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/cmake/ament_cmake_export_libraries-extras.cmake
+[47.508s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/cmake/ament_cmake_export_include_directories-extras.cmake
+[47.509s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/cmake/openslam_gmappingConfig.cmake
+[47.509s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/cmake/openslam_gmappingConfig-version.cmake
+[47.510s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/package.xml
+[47.511s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/lib/libgridfastslam.a
+[47.513s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/lib/libscanmatcher.a
+[47.515s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/library_path.sh
+[47.515s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/library_path.dsv
+[47.516s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/lib/libsensor_base.a
+[47.517s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/library_path.sh
+[47.517s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/library_path.dsv
+[47.518s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/lib/libsensor_odometry.a
+[47.519s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/lib/libsensor_range.a
+[47.520s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/lib/libutils.a
+[47.521s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/library_path.sh
+[47.523s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/openslam_gmapping/share/openslam_gmapping/environment/library_path.dsv
+[47.530s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/openslam_gmapping

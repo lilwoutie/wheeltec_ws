@@ -1,0 +1,84 @@
+[0.099s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_joy -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy
+[0.805s] -- The C compiler identification is GNU 9.4.0
+[1.128s] -- The CXX compiler identification is GNU 9.4.0
+[1.174s] -- Check for working C compiler: /usr/bin/cc
+[1.550s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.560s] -- Detecting C compiler ABI info
+[1.971s] -- Detecting C compiler ABI info - done
+[2.032s] -- Detecting C compile features
+[2.036s] -- Detecting C compile features - done
+[2.055s] -- Check for working CXX compiler: /usr/bin/c++
+[2.604s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.608s] -- Detecting CXX compiler ABI info
+[3.316s] -- Detecting CXX compiler ABI info - done
+[3.406s] -- Detecting CXX compile features
+[3.418s] -- Detecting CXX compile features - done
+[3.485s] -- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+[3.795s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.797s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.386s] -- Found rclcpp: 9.2.2 (/opt/ros/galactic/share/rclcpp/cmake)
+[6.170s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.323s] -- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[7.151s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[7.356s] -- Found FastRTPS: /opt/ros/galactic/include  
+[8.128s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[8.765s] -- Found rmw_implementation_cmake: 3.3.1 (/opt/ros/galactic/share/rmw_implementation_cmake/cmake)
+[8.837s] -- Found rmw_cyclonedds_cpp: 0.22.6 (/opt/ros/galactic/share/rmw_cyclonedds_cpp/cmake)
+[8.989s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[8.995s] -- Looking for pthread.h
+[9.396s] -- Looking for pthread.h - found
+[9.398s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[9.892s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[9.895s] -- Looking for pthread_create in pthreads
+[10.430s] -- Looking for pthread_create in pthreads - not found
+[10.432s] -- Looking for pthread_create in pthread
+[10.958s] -- Looking for pthread_create in pthread - found
+[10.962s] -- Found Threads: TRUE  
+[12.463s] -- Found geometry_msgs: 2.2.4 (/opt/ros/galactic/share/geometry_msgs/cmake)
+[12.676s] -- Found sensor_msgs: 2.2.4 (/opt/ros/galactic/share/sensor_msgs/cmake)
+[13.030s] -- Found ament_lint_auto: 0.10.7 (/opt/ros/galactic/share/ament_lint_auto/cmake)
+[13.938s] -- Added test 'copyright' to check source files copyright and LICENSE
+[14.001s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[14.003s] -- Configured cppcheck include dirs: 
+[14.003s] -- Configured cppcheck exclude dirs and/or files: 
+[14.062s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[14.063s] -- Configured cpplint exclude dirs and/or files: 
+[14.076s] -- Added test 'flake8' to check Python code syntax and style conventions
+[14.099s] -- Added test 'lint_cmake' to check CMake code style
+[14.114s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[14.175s] -- Added test 'uncrustify' to check C / C++ code style
+[14.176s] -- Configured uncrustify additional arguments: 
+[14.199s] -- Added test 'xmllint' to check XML markup files
+[14.232s] -- Configuring done
+[14.271s] -- Generating done
+[14.285s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy
+[14.354s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_joy -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy
+[14.363s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy -- -j4 -l4
+[14.732s] [35m[1mScanning dependencies of target wheeltec_joy[0m
+[15.185s] [ 50%] [32mBuilding CXX object CMakeFiles/wheeltec_joy.dir/src/wheeltec_joy_control.cpp.o[0m
+[50.626s] [100%] [32m[1mLinking CXX executable wheeltec_joy[0m
+[52.085s] [100%] Built target wheeltec_joy
+[52.152s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy -- -j4 -l4
+[52.155s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy
+[52.266s] -- Install configuration: ""
+[52.268s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/lib/wheeltec_joy/wheeltec_joy
+[52.282s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/lib/wheeltec_joy/wheeltec_joy" to ""
+[52.283s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/launch
+[52.284s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/launch/wheeltec_joy.launch.py
+[52.285s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/launch/only_joy.launch.py
+[52.287s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/ament_index/resource_index/package_run_dependencies/wheeltec_joy
+[52.289s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/ament_index/resource_index/parent_prefix_path/wheeltec_joy
+[52.290s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/environment/ament_prefix_path.sh
+[52.292s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/environment/ament_prefix_path.dsv
+[52.293s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/environment/path.sh
+[52.294s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/environment/path.dsv
+[52.302s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/local_setup.bash
+[52.303s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/local_setup.sh
+[52.304s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/local_setup.zsh
+[52.306s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/local_setup.dsv
+[52.307s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/package.dsv
+[52.309s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/ament_index/resource_index/packages/wheeltec_joy
+[52.310s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/cmake/wheeltec_joyConfig.cmake
+[52.310s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/cmake/wheeltec_joyConfig-version.cmake
+[52.311s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_joy/share/wheeltec_joy/package.xml
+[52.324s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/wheeltec_joy

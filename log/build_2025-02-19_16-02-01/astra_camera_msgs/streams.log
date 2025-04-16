@@ -1,0 +1,316 @@
+[0.119s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/astra_camera_msgs': /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/astra_camera_msgs -- -j4 -l4
+[1.025s] [  1%] Built target astra_camera_msgs__cpp
+[1.275s] [ 12%] Built target astra_camera_msgs__rosidl_generator_c
+[1.397s] [ 24%] Built target astra_camera_msgs__rosidl_typesupport_cpp
+[1.441s] [ 35%] Built target astra_camera_msgs__rosidl_typesupport_introspection_cpp
+[1.603s] [ 47%] Built target astra_camera_msgs__rosidl_typesupport_fastrtps_cpp
+[1.815s] [ 58%] Built target astra_camera_msgs__rosidl_typesupport_introspection_c
+[1.938s] [ 70%] Built target astra_camera_msgs__rosidl_typesupport_c
+[2.157s] [ 82%] Built target astra_camera_msgs__rosidl_typesupport_fastrtps_c
+[2.494s] [ 82%] Built target astra_camera_msgs
+[2.844s] [ 83%] Built target astra_camera_msgs__py
+[3.062s] [35m[1mScanning dependencies of target astra_camera_msgs__python[0m
+[3.340s] [ 84%] [32mBuilding C object CMakeFiles/astra_camera_msgs__python.dir/rosidl_generator_py/astra_camera_msgs/msg/_device_info_s.c.o[0m
+[3.347s] [ 85%] [32mBuilding C object CMakeFiles/astra_camera_msgs__python.dir/rosidl_generator_py/astra_camera_msgs/msg/_metadata_s.c.o[0m
+[3.379s] [ 86%] [32mBuilding C object CMakeFiles/astra_camera_msgs__python.dir/rosidl_generator_py/astra_camera_msgs/srv/_get_device_info_s.c.o[0m
+[3.397s] [ 87%] [32mBuilding C object CMakeFiles/astra_camera_msgs__python.dir/rosidl_generator_py/astra_camera_msgs/msg/_extrinsics_s.c.o[0m
+[4.588s] [ 88%] [32mBuilding C object CMakeFiles/astra_camera_msgs__python.dir/rosidl_generator_py/astra_camera_msgs/srv/_get_camera_info_s.c.o[0m
+[4.644s] [ 89%] [32mBuilding C object CMakeFiles/astra_camera_msgs__python.dir/rosidl_generator_py/astra_camera_msgs/srv/_get_camera_params_s.c.o[0m
+[4.682s] [ 90%] [32mBuilding C object CMakeFiles/astra_camera_msgs__python.dir/rosidl_generator_py/astra_camera_msgs/srv/_get_int32_s.c.o[0m
+[4.698s] [ 91%] [32mBuilding C object CMakeFiles/astra_camera_msgs__python.dir/rosidl_generator_py/astra_camera_msgs/srv/_get_string_s.c.o[0m
+[6.259s] [ 92%] [32mBuilding C object CMakeFiles/astra_camera_msgs__python.dir/rosidl_generator_py/astra_camera_msgs/srv/_set_int32_s.c.o[0m
+[7.531s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/astra_camera_msgs/libastra_camera_msgs__python.so[0m
+[8.145s] [ 93%] Built target astra_camera_msgs__python
+[8.257s] [35m[1mScanning dependencies of target astra_camera_msgs__rosidl_typesupport_c__pyext[0m
+[8.258s] [35m[1mScanning dependencies of target astra_camera_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[8.329s] [35m[1mScanning dependencies of target astra_camera_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[8.490s] [ 94%] [32mBuilding C object CMakeFiles/astra_camera_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/astra_camera_msgs/_astra_camera_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[8.503s] [ 95%] [32mBuilding C object CMakeFiles/astra_camera_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/astra_camera_msgs/_astra_camera_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[8.526s] [ 96%] [32mBuilding C object CMakeFiles/astra_camera_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/astra_camera_msgs/_astra_camera_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[10.342s] [ 97%] [32m[1mLinking CXX shared library rosidl_generator_py/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so[0m
+[10.351s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so[0m
+[10.415s] [100%] [32m[1mLinking C shared library rosidl_generator_py/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so[0m
+[10.834s] [100%] Built target astra_camera_msgs__rosidl_typesupport_introspection_c__pyext
+[10.844s] [100%] Built target astra_camera_msgs__rosidl_typesupport_c__pyext
+[11.299s] [100%] Built target astra_camera_msgs__rosidl_typesupport_fastrtps_c__pyext
+[11.425s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/astra_camera_msgs' returned '0': /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/astra_camera_msgs -- -j4 -l4
+[11.439s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/astra_camera_msgs': /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/astra_camera_msgs
+[11.587s] -- Install configuration: ""
+[11.600s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/ament_index/resource_index/rosidl_interfaces/astra_camera_msgs
+[11.603s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs
+[11.604s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg
+[11.605s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail
+[11.609s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__functions.c
+[11.610s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__type_support.h
+[11.610s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__struct.h
+[11.611s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__functions.c
+[11.612s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__type_support.h
+[11.612s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__struct.h
+[11.613s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__functions.h
+[11.618s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__struct.h
+[11.626s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__functions.h
+[11.628s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__type_support.h
+[11.628s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__functions.h
+[11.629s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__functions.c
+[11.632s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/extrinsics.h
+[11.634s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/rosidl_generator_c__visibility_control.h
+[11.642s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/metadata.h
+[11.642s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/device_info.h
+[11.643s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv
+[11.656s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/get_string.h
+[11.656s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail
+[11.657s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__functions.c
+[11.657s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__functions.h
+[11.657s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__functions.h
+[11.658s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__functions.c
+[11.670s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__functions.c
+[11.670s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__functions.h
+[11.671s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__struct.h
+[11.671s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__struct.h
+[11.672s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__functions.h
+[11.672s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__type_support.h
+[11.673s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__type_support.h
+[11.673s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__functions.c
+[11.673s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__struct.h
+[11.674s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__type_support.h
+[11.674s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__struct.h
+[11.675s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__type_support.h
+[11.675s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__functions.h
+[11.675s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__functions.h
+[11.676s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__type_support.h
+[11.676s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__struct.h
+[11.695s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__functions.c
+[11.695s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__type_support.h
+[11.696s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__struct.h
+[11.696s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__functions.c
+[11.700s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/set_int32.h
+[11.700s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/get_int32.h
+[11.701s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/get_camera_params.h
+[11.701s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/get_camera_info.h
+[11.702s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/get_device_info.h
+[11.702s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/environment/library_path.sh
+[11.705s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/environment/library_path.dsv
+[11.705s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_generator_c.so
+[11.706s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs
+[11.706s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg
+[11.707s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail
+[11.707s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__rosidl_typesupport_fastrtps_c.h
+[11.707s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_fastrtps_c.h
+[11.708s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__rosidl_typesupport_fastrtps_c.h
+[11.708s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[11.728s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv
+[11.729s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail
+[11.729s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__rosidl_typesupport_fastrtps_c.h
+[11.734s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__rosidl_typesupport_fastrtps_c.h
+[11.735s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__rosidl_typesupport_fastrtps_c.h
+[11.736s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__rosidl_typesupport_fastrtps_c.h
+[11.744s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__rosidl_typesupport_fastrtps_c.h
+[11.744s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__rosidl_typesupport_fastrtps_c.h
+[11.745s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_fastrtps_c.so
+[11.745s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs
+[11.745s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg
+[11.746s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[11.746s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail
+[11.747s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__rosidl_typesupport_fastrtps_cpp.hpp
+[11.747s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/dds_fastrtps
+[11.748s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_fastrtps_cpp.hpp
+[11.748s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__rosidl_typesupport_fastrtps_cpp.hpp
+[11.748s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv
+[11.749s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail
+[11.749s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__rosidl_typesupport_fastrtps_cpp.hpp
+[11.750s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__rosidl_typesupport_fastrtps_cpp.hpp
+[11.750s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/dds_fastrtps
+[11.751s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__rosidl_typesupport_fastrtps_cpp.hpp
+[11.751s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__rosidl_typesupport_fastrtps_cpp.hpp
+[11.752s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__rosidl_typesupport_fastrtps_cpp.hpp
+[11.752s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__rosidl_typesupport_fastrtps_cpp.hpp
+[11.758s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_fastrtps_cpp.so
+[11.762s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs
+[11.763s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg
+[11.766s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail
+[11.769s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__type_support.c
+[11.772s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__rosidl_typesupport_introspection_c.h
+[11.772s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__rosidl_typesupport_introspection_c.h
+[11.777s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__type_support.c
+[11.778s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_introspection_c.h
+[11.781s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__type_support.c
+[11.782s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[11.783s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv
+[11.783s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail
+[11.784s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__type_support.c
+[11.788s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__rosidl_typesupport_introspection_c.h
+[11.795s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__rosidl_typesupport_introspection_c.h
+[11.795s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__rosidl_typesupport_introspection_c.h
+[11.796s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__rosidl_typesupport_introspection_c.h
+[11.796s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__rosidl_typesupport_introspection_c.h
+[11.797s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__type_support.c
+[11.797s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__type_support.c
+[11.798s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__rosidl_typesupport_introspection_c.h
+[11.798s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__type_support.c
+[11.814s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__type_support.c
+[11.823s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__type_support.c
+[11.823s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_introspection_c.so
+[11.824s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_c.so
+[11.824s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs
+[11.824s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg
+[11.825s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/device_info.hpp
+[11.825s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail
+[11.826s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__builder.hpp
+[11.826s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__traits.hpp
+[11.826s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__traits.hpp
+[11.827s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__struct.hpp
+[11.827s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__struct.hpp
+[11.828s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__builder.hpp
+[11.828s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__builder.hpp
+[11.829s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__struct.hpp
+[11.829s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__traits.hpp
+[11.830s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/extrinsics.hpp
+[11.830s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/metadata.hpp
+[11.831s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv
+[11.831s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/get_device_info.hpp
+[11.832s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail
+[11.840s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__traits.hpp
+[11.841s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__traits.hpp
+[11.841s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__traits.hpp
+[11.841s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__traits.hpp
+[11.842s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__struct.hpp
+[11.842s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__builder.hpp
+[11.843s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__struct.hpp
+[11.849s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__struct.hpp
+[11.849s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__builder.hpp
+[11.850s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__traits.hpp
+[11.857s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__builder.hpp
+[11.857s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__builder.hpp
+[11.858s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__builder.hpp
+[11.858s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__struct.hpp
+[11.858s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__struct.hpp
+[11.861s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__builder.hpp
+[11.861s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__traits.hpp
+[11.862s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__struct.hpp
+[11.862s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/get_camera_params.hpp
+[11.863s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/set_int32.hpp
+[11.863s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/get_int32.hpp
+[11.863s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/get_camera_info.hpp
+[11.864s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/get_string.hpp
+[11.864s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs
+[11.865s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg
+[11.865s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail
+[11.866s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__type_support.cpp
+[11.866s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_introspection_cpp.hpp
+[11.867s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/metadata__rosidl_typesupport_introspection_cpp.hpp
+[11.867s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__type_support.cpp
+[11.868s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/extrinsics__type_support.cpp
+[11.868s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/msg/detail/device_info__rosidl_typesupport_introspection_cpp.hpp
+[11.894s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv
+[11.895s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail
+[11.895s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__rosidl_typesupport_introspection_cpp.hpp
+[11.896s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__rosidl_typesupport_introspection_cpp.hpp
+[11.896s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__type_support.cpp
+[11.897s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__rosidl_typesupport_introspection_cpp.hpp
+[11.897s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_string__type_support.cpp
+[11.898s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__rosidl_typesupport_introspection_cpp.hpp
+[11.898s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/set_int32__type_support.cpp
+[11.899s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__type_support.cpp
+[11.899s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_int32__type_support.cpp
+[11.900s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_info__rosidl_typesupport_introspection_cpp.hpp
+[11.900s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_device_info__type_support.cpp
+[11.901s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/include/astra_camera_msgs/srv/detail/get_camera_params__rosidl_typesupport_introspection_cpp.hpp
+[11.901s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_introspection_cpp.so
+[11.902s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_cpp.so
+[11.903s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/environment/pythonpath.sh
+[11.903s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/environment/pythonpath.dsv
+[11.905s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/__init__.py
+[12.038s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/msg
+[12.041s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/msg/__init__.py
+[12.041s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/msg/_extrinsics.py
+[12.043s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/msg/_metadata_s.c
+[12.048s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/msg/_metadata.py
+[12.049s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/msg/_device_info.py
+[12.050s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/msg/_device_info_s.c
+[12.052s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/msg/_extrinsics_s.c
+[12.052s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv
+[12.053s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_get_camera_params.py
+[12.053s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/__init__.py
+[12.054s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_get_string.py
+[12.054s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_get_int32_s.c
+[12.055s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_get_camera_info_s.c
+[12.055s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_get_camera_info.py
+[12.058s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_get_int32.py
+[12.059s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_get_device_info.py
+[12.060s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_set_int32.py
+[12.061s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_get_camera_params_s.c
+[12.061s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_get_string_s.c
+[12.062s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_set_int32_s.c
+[12.062s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/srv/_get_device_info_s.c
+[12.063s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so
+[12.063s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so" to ""
+[12.069s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so
+[12.073s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so" to ""
+[12.089s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so
+[12.095s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/python3.8/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so" to ""
+[12.095s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/libastra_camera_msgs__python.so
+[12.105s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/lib/libastra_camera_msgs__python.so" to ""
+[12.108s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/msg/DeviceInfo.idl
+[12.110s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/msg/Extrinsics.idl
+[12.111s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/msg/Metadata.idl
+[12.112s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetDeviceInfo.idl
+[12.112s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraInfo.idl
+[12.113s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraParams.idl
+[12.113s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetInt32.idl
+[12.125s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetString.idl
+[12.125s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/SetInt32.idl
+[12.125s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/msg/DeviceInfo.msg
+[12.126s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/msg/Extrinsics.msg
+[12.126s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/msg/Metadata.msg
+[12.126s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetDeviceInfo.srv
+[12.127s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetDeviceInfo_Request.msg
+[12.127s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetDeviceInfo_Response.msg
+[12.128s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraInfo.srv
+[12.128s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraInfo_Request.msg
+[12.135s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraInfo_Response.msg
+[12.137s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraParams.srv
+[12.137s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraParams_Request.msg
+[12.138s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraParams_Response.msg
+[12.138s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetInt32.srv
+[12.139s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetInt32_Request.msg
+[12.140s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetInt32_Response.msg
+[12.140s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetString.srv
+[12.141s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetString_Request.msg
+[12.141s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetString_Response.msg
+[12.142s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/SetInt32.srv
+[12.142s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/SetInt32_Request.msg
+[12.142s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/srv/SetInt32_Response.msg
+[12.143s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/ament_index/resource_index/package_run_dependencies/astra_camera_msgs
+[12.144s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/ament_index/resource_index/parent_prefix_path/astra_camera_msgs
+[12.145s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/environment/ament_prefix_path.sh
+[12.145s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/environment/ament_prefix_path.dsv
+[12.145s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/environment/path.sh
+[12.146s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/environment/path.dsv
+[12.148s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/local_setup.bash
+[12.149s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/local_setup.sh
+[12.150s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/local_setup.zsh
+[12.150s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/local_setup.dsv
+[12.151s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/package.dsv
+[12.151s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/ament_index/resource_index/packages/astra_camera_msgs
+[12.152s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_generator_cExport.cmake
+[12.152s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_generator_cExport-noconfig.cmake
+[12.153s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_introspection_cExport.cmake
+[12.154s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[12.156s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_cExport.cmake
+[12.158s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[12.164s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_generator_cppExport.cmake
+[12.165s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[12.166s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[12.166s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_cppExport.cmake
+[12.167s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[12.167s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/rosidl_cmake-extras.cmake
+[12.169s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[12.169s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[12.175s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[12.176s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[12.188s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[12.190s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[12.192s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgsConfig.cmake
+[12.194s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgsConfig-version.cmake
+[12.197s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/astra_camera_msgs/share/astra_camera_msgs/package.xml
+[12.198s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/astra_camera_msgs' returned '0': /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/astra_camera_msgs

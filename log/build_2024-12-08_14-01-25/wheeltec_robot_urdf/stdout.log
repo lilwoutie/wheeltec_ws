@@ -1,0 +1,92 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found urdf: 2.5.2 (/opt/ros/galactic/share/urdf/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wheeltec/wheeltec_ros2/src/build/wheeltec_robot_urdf
+-- Install configuration: ""
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/sensors
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/sensors/r200.jpg
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/sensors/lds.stl
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/sensors/r200.dae
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/sensors/astra.dae
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/sensors/astra.jpg
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/wheels
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/wheels/left_tire.stl
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/wheels/right_tire.stl
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/bases
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/bases/burger_base.stl
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/bases/waffle_base.stl
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/meshes/bases/waffle_pi_base.stl
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/rviz
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/rviz/model.rviz
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/flagship_four_wheel_diff_dl_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/mini_4wd_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/flagship_four_wheel_diff_bs_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/mini_4wd_moveit.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/top_mec_bs_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/mini_akm_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/senior_akm_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/mec_EightDrive_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/flagship_mec_bs_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/mini_mec_moveit.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/four_wheel_diff_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/flagship_4wd_bs_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/mini_diff_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/top_akm_dl_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/top_akm_bs_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/flagship_mec_dl_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/top_4wd_dl_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/four_wheel_diff_dl_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/brushless_senior_diff.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/senior_4wd_dl_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/turtlebot3_waffle_pi.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/common_properties.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/mini_mec_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/turtlebot3_burger.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/four_wheel_diff_bs_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/mini_tank_moveit.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/senior_omni_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/top_mec_dl_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/senior_mec_dl_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/senior_diff_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/turtlebot3_waffle.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/top_diff_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/flagship_4wd_dl_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/senior_mec_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/mini_omni_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/top_4wd_bs_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/senior_4wd_bs_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/urdf/top_omni_robot.urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/ament_index/resource_index/package_run_dependencies/wheeltec_robot_urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/ament_index/resource_index/parent_prefix_path/wheeltec_robot_urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/environment/ament_prefix_path.sh
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/environment/ament_prefix_path.dsv
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/environment/path.sh
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/environment/path.dsv
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/local_setup.bash
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/local_setup.sh
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/local_setup.zsh
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/local_setup.dsv
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/package.dsv
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/ament_index/resource_index/packages/wheeltec_robot_urdf
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/cmake/wheeltec_robot_urdfConfig.cmake
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/cmake/wheeltec_robot_urdfConfig-version.cmake
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_urdf/share/wheeltec_robot_urdf/package.xml

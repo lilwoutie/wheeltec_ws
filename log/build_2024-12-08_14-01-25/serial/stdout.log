@@ -1,0 +1,60 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found rosidl_default_generators: 1.1.1 (/opt/ros/galactic/share/rosidl_default_generators/cmake)
+-- Found ament_cmake_core: 1.1.6 (/opt/ros/galactic/share/ament_cmake_core/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+-- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+-- Found FastRTPS: /opt/ros/galactic/include  
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wheeltec/wheeltec_ros2/src/build/serial
+[35m[1mScanning dependencies of target serial[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/serial.dir/src/serial.cc.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/list_ports/list_ports_linux.cc.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/unix.cc.o[0m
+[100%] [32m[1mLinking CXX static library libserial.a[0m
+[100%] Built target serial
+-- Install configuration: ""
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/lib/libserial.a
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/library_path.sh
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/library_path.dsv
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial/serial.h
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial/impl
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial/impl/unix.h
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial/impl/win.h
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial/v8stdint.h
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/ament_index/resource_index/package_run_dependencies/serial
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/ament_index/resource_index/parent_prefix_path/serial
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/ament_prefix_path.sh
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/ament_prefix_path.dsv
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/path.sh
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/path.dsv
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/local_setup.bash
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/local_setup.sh
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/local_setup.zsh
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/local_setup.dsv
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/package.dsv
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/ament_index/resource_index/packages/serial
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/cmake/serialConfig.cmake
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/cmake/serialConfig-version.cmake
+-- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/package.xml

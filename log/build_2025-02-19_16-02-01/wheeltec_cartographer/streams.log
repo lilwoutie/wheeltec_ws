@@ -1,0 +1,27 @@
+[0.085s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_cartographer': /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/wheeltec_cartographer -- -j4 -l4
+[0.287s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_cartographer' returned '0': /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/wheeltec_cartographer -- -j4 -l4
+[0.304s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_cartographer': /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/wheeltec_cartographer
+[0.350s] -- Install configuration: ""
+[0.354s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/launch
+[0.355s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/launch/turtlebot3_scan.launch.py
+[0.355s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/launch/realsense_d400.launch.py
+[0.356s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/launch/cartographer.launch.py
+[0.356s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/launch/slam_rtabmap.launch.py
+[0.357s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/config
+[0.357s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/config/cartographer.lua
+[0.361s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/ament_index/resource_index/package_run_dependencies/wheeltec_cartographer
+[0.363s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/ament_index/resource_index/parent_prefix_path/wheeltec_cartographer
+[0.363s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/environment/ament_prefix_path.sh
+[0.364s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/environment/ament_prefix_path.dsv
+[0.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/environment/path.sh
+[0.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/environment/path.dsv
+[0.367s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/local_setup.bash
+[0.368s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/local_setup.sh
+[0.369s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/local_setup.zsh
+[0.370s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/local_setup.dsv
+[0.371s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/package.dsv
+[0.373s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/ament_index/resource_index/packages/wheeltec_cartographer
+[0.374s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/cmake/wheeltec_cartographerConfig.cmake
+[0.375s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/cmake/wheeltec_cartographerConfig-version.cmake
+[0.375s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_cartographer/share/wheeltec_cartographer/package.xml
+[0.382s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_cartographer' returned '0': /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/wheeltec_cartographer

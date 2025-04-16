@@ -1,0 +1,37 @@
+[7.243s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/depend/tf2_tools': PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/build/tf2_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/src/install/tf2_tools/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tf2_tools build --build-base /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/build install --record /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/install.log --single-version-externally-managed install_data
+[9.763s] running egg_info
+[9.766s] creating ../../build/tf2_tools/tf2_tools.egg-info
+[9.851s] writing ../../build/tf2_tools/tf2_tools.egg-info/PKG-INFO
+[9.855s] writing dependency_links to ../../build/tf2_tools/tf2_tools.egg-info/dependency_links.txt
+[9.858s] writing entry points to ../../build/tf2_tools/tf2_tools.egg-info/entry_points.txt
+[9.861s] writing requirements to ../../build/tf2_tools/tf2_tools.egg-info/requires.txt
+[9.861s] writing top-level names to ../../build/tf2_tools/tf2_tools.egg-info/top_level.txt
+[9.868s] writing manifest file '../../build/tf2_tools/tf2_tools.egg-info/SOURCES.txt'
+[10.034s] reading manifest file '../../build/tf2_tools/tf2_tools.egg-info/SOURCES.txt'
+[10.040s] writing manifest file '../../build/tf2_tools/tf2_tools.egg-info/SOURCES.txt'
+[10.042s] running build
+[10.044s] running build_py
+[10.046s] creating /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/build
+[10.048s] creating /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/build/lib
+[10.050s] creating /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/build/lib/tf2_tools
+[10.052s] copying tf2_tools/__init__.py -> /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/build/lib/tf2_tools
+[10.055s] copying tf2_tools/view_frames.py -> /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/build/lib/tf2_tools
+[10.058s] running install
+[10.088s] running install_lib
+[10.173s] creating /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/lib/python3.8/site-packages/tf2_tools
+[10.174s] copying /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/build/lib/tf2_tools/__init__.py -> /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/lib/python3.8/site-packages/tf2_tools
+[10.176s] copying /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/build/lib/tf2_tools/view_frames.py -> /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/lib/python3.8/site-packages/tf2_tools
+[10.181s] byte-compiling /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/lib/python3.8/site-packages/tf2_tools/__init__.py to __init__.cpython-38.pyc
+[10.184s] byte-compiling /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/lib/python3.8/site-packages/tf2_tools/view_frames.py to view_frames.cpython-38.pyc
+[10.199s] running install_data
+[10.200s] creating /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/share/ament_index
+[10.203s] creating /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/share/ament_index/resource_index
+[10.204s] creating /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/share/ament_index/resource_index/packages
+[10.206s] copying resource/tf2_tools -> /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/share/ament_index/resource_index/packages
+[10.209s] copying package.xml -> /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/share/tf2_tools
+[10.213s] running install_egg_info
+[10.297s] Copying ../../build/tf2_tools/tf2_tools.egg-info to /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/lib/python3.8/site-packages/tf2_tools-0.17.1-py3.8.egg-info
+[10.314s] running install_scripts
+[10.785s] Installing view_frames script to /home/wheeltec/wheeltec_ros2/src/install/tf2_tools/lib/tf2_tools
+[10.788s] writing list of installed files to '/home/wheeltec/wheeltec_ros2/src/build/tf2_tools/install.log'
+[10.965s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/depend/tf2_tools' returned '0': PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/build/tf2_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/src/install/tf2_tools/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tf2_tools build --build-base /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/build install --record /home/wheeltec/wheeltec_ros2/src/build/tf2_tools/install.log --single-version-externally-managed install_data

@@ -1,0 +1,20 @@
+[0.105s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/perception_pcl': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros:/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros:/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions LD_LIBRARY_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/perception_pcl -- -j4 -l4
+[1.946s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/perception_pcl' returned '0': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros:/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros:/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions LD_LIBRARY_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/perception_pcl -- -j4 -l4
+[1.956s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/perception_pcl': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros:/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros:/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions LD_LIBRARY_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/perception_pcl
+[2.022s] -- Install configuration: ""
+[2.032s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/ament_index/resource_index/package_run_dependencies/perception_pcl
+[2.033s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/ament_index/resource_index/parent_prefix_path/perception_pcl
+[2.034s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/environment/ament_prefix_path.sh
+[2.037s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/environment/ament_prefix_path.dsv
+[2.038s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/environment/path.sh
+[2.038s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/environment/path.dsv
+[2.039s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/local_setup.bash
+[2.039s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/local_setup.sh
+[2.039s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/local_setup.zsh
+[2.040s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/local_setup.dsv
+[2.040s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/package.dsv
+[2.041s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/ament_index/resource_index/packages/perception_pcl
+[2.042s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/cmake/perception_pclConfig.cmake
+[2.042s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/cmake/perception_pclConfig-version.cmake
+[2.043s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/perception_pcl/share/perception_pcl/package.xml
+[2.054s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/perception_pcl' returned '0': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros:/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros:/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions LD_LIBRARY_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/perception_pcl

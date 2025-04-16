@@ -1,0 +1,19 @@
+[4.397s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/teleop_twist_keyboard': PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/build/teleop_twist_keyboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/src/install/teleop_twist_keyboard/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wheeltec/wheeltec_ros2/src/build/teleop_twist_keyboard/build --no-deps symlink_data --force
+[5.953s] running develop
+[6.984s] running egg_info
+[7.044s] writing teleop_twist_keyboard.egg-info/PKG-INFO
+[7.045s] writing dependency_links to teleop_twist_keyboard.egg-info/dependency_links.txt
+[7.046s] writing entry points to teleop_twist_keyboard.egg-info/entry_points.txt
+[7.046s] writing requirements to teleop_twist_keyboard.egg-info/requires.txt
+[7.046s] writing top-level names to teleop_twist_keyboard.egg-info/top_level.txt
+[7.169s] reading manifest file 'teleop_twist_keyboard.egg-info/SOURCES.txt'
+[7.174s] writing manifest file 'teleop_twist_keyboard.egg-info/SOURCES.txt'
+[7.402s] running build_ext
+[7.402s] Creating /home/wheeltec/wheeltec_ros2/src/install/teleop_twist_keyboard/lib/python3.8/site-packages/teleop-twist-keyboard.egg-link (link to .)
+[7.405s] Installing teleop_twist_keyboard script to /home/wheeltec/wheeltec_ros2/src/install/teleop_twist_keyboard/lib/teleop_twist_keyboard
+[7.406s] 
+[7.406s] Installed /home/wheeltec/wheeltec_ros2/src/build/teleop_twist_keyboard
+[7.407s] running symlink_data
+[7.407s] symbolically linking /home/wheeltec/wheeltec_ros2/src/build/teleop_twist_keyboard/resource/teleop_twist_keyboard -> /home/wheeltec/wheeltec_ros2/src/install/teleop_twist_keyboard/share/ament_index/resource_index/packages
+[7.408s] symbolically linking /home/wheeltec/wheeltec_ros2/src/build/teleop_twist_keyboard/package.xml -> /home/wheeltec/wheeltec_ros2/src/install/teleop_twist_keyboard/share/teleop_twist_keyboard
+[7.589s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/teleop_twist_keyboard' returned '0': PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/build/teleop_twist_keyboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/src/install/teleop_twist_keyboard/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wheeltec/wheeltec_ros2/src/build/teleop_twist_keyboard/build --no-deps symlink_data --force

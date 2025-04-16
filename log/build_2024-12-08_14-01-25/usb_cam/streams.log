@@ -1,0 +1,213 @@
+[0.090s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/usb_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/usb_cam-ros2 -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/usb_cam
+[0.399s] -- The C compiler identification is GNU 9.4.0
+[0.843s] -- The CXX compiler identification is GNU 9.4.0
+[0.890s] -- Check for working C compiler: /usr/bin/cc
+[1.679s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.687s] -- Detecting C compiler ABI info
+[2.566s] -- Detecting C compiler ABI info - done
+[2.657s] -- Detecting C compile features
+[2.658s] -- Detecting C compile features - done
+[2.680s] -- Check for working CXX compiler: /usr/bin/c++
+[3.411s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.419s] -- Detecting CXX compiler ABI info
+[3.902s] -- Detecting CXX compiler ABI info - done
+[3.956s] -- Detecting CXX compile features
+[3.959s] -- Detecting CXX compile features - done
+[4.011s] -- Found ament_cmake_auto: 1.1.6 (/opt/ros/galactic/share/ament_cmake_auto/cmake)
+[4.350s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.352s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.337s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.467s] -- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[7.347s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[7.515s] -- Found FastRTPS: /opt/ros/galactic/include  
+[8.209s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[8.772s] -- Found rmw_implementation_cmake: 3.3.1 (/opt/ros/galactic/share/rmw_implementation_cmake/cmake)
+[8.833s] -- Found rmw_cyclonedds_cpp: 0.22.6 (/opt/ros/galactic/share/rmw_cyclonedds_cpp/cmake)
+[8.971s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[8.976s] -- Looking for pthread.h
+[9.395s] -- Looking for pthread.h - found
+[9.396s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[9.815s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[9.818s] -- Looking for pthread_create in pthreads
+[10.281s] -- Looking for pthread_create in pthreads - not found
+[10.288s] -- Looking for pthread_create in pthread
+[10.703s] -- Looking for pthread_create in pthread - found
+[10.712s] -- Found Threads: TRUE  
+[14.168s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[14.173s] -- Checking for module 'libavcodec'
+[14.295s] --   Found libavcodec, version 58.54.100
+[14.583s] -- Checking for module 'libswscale'
+[14.729s] --   Found libswscale, version 5.5.100
+[15.643s] -- Configuring done
+[15.803s] -- Generating done
+[15.877s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/src/build/usb_cam
+[15.925s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/usb_cam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/usb_cam-ros2 -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/usb_cam
+[15.929s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/usb_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/usb_cam -- -j4 -l4
+[16.220s] [35m[1mScanning dependencies of target usb_cam[0m
+[16.592s] [ 16%] [32mBuilding CXX object CMakeFiles/usb_cam.dir/src/usb_cam.cpp.o[0m
+[25.562s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:[m[K In member function ‘[01m[Kint usb_cam::UsbCam::init_mjpeg_decoder(int, int)[m[K’:
+[25.562s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:75:24:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid avcodec_register_all()[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.563s]    75 |   avcodec_register_all([01;35m[K)[m[K;
+[25.563s]       |                        [01;35m[K^[m[K
+[25.567s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.568s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.568s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:4159:6:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.569s]  4159 | void [01;36m[Kavcodec_register_all[m[K(void);
+[25.569s]       |      [01;36m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[25.570s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:75:24:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid avcodec_register_all()[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.575s]    75 |   avcodec_register_all([01;35m[K)[m[K;
+[25.575s]       |                        [01;35m[K^[m[K
+[25.576s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.576s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.577s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:4159:6:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.577s]  4159 | void [01;36m[Kavcodec_register_all[m[K(void);
+[25.578s]       |      [01;36m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[25.578s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:93:93:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_alloc(AVPicture*, AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.579s]    93 |     reinterpret_cast<AVPicture *>(avframe_rgb_), AV_PIX_FMT_RGB24, image_width, image_height[01;35m[K)[m[K;
+[25.579s]       |                                                                                             [01;35m[K^[m[K
+[25.580s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.580s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.580s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5483:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.581s]  5483 | int [01;36m[Kavpicture_alloc[m[K(AVPicture *picture, enum AVPixelFormat pix_fmt, int width, int height);
+[25.581s]       |     [01;36m[K^~~~~~~~~~~~~~~[m[K
+[25.582s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:93:93:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_alloc(AVPicture*, AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.606s]    93 |     reinterpret_cast<AVPicture *>(avframe_rgb_), AV_PIX_FMT_RGB24, image_width, image_height[01;35m[K)[m[K;
+[25.607s]       |                                                                                             [01;35m[K^[m[K
+[25.607s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.608s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.608s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5483:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.609s]  5483 | int [01;36m[Kavpicture_alloc[m[K(AVPicture *picture, enum AVPixelFormat pix_fmt, int width, int height);
+[25.609s]       |     [01;36m[K^~~~~~~~~~~~~~~[m[K
+[25.610s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:108:90:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.615s]   108 |   avframe_camera_size_ = avpicture_get_size(AV_PIX_FMT_YUV422P, image_width, image_height[01;35m[K)[m[K;
+[25.615s]       |                                                                                          [01;35m[K^[m[K
+[25.616s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.616s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.617s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.617s]  5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+[25.617s]       |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[25.618s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:108:90:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.619s]   108 |   avframe_camera_size_ = avpicture_get_size(AV_PIX_FMT_YUV422P, image_width, image_height[01;35m[K)[m[K;
+[25.619s]       |                                                                                          [01;35m[K^[m[K
+[25.619s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.620s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.620s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.621s]  5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+[25.621s]       |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[25.622s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:109:85:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.638s]   109 |   avframe_rgb_size_ = avpicture_get_size(AV_PIX_FMT_RGB24, image_width, image_height[01;35m[K)[m[K;
+[25.639s]       |                                                                                     [01;35m[K^[m[K
+[25.639s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.640s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.640s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.641s]  5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+[25.641s]       |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[25.642s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:109:85:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.642s]   109 |   avframe_rgb_size_ = avpicture_get_size(AV_PIX_FMT_RGB24, image_width, image_height[01;35m[K)[m[K;
+[25.642s]       |                                                                                     [01;35m[K^[m[K
+[25.643s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.643s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.644s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.644s]  5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+[25.644s]       |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[25.645s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:[m[K In member function ‘[01m[Kbool usb_cam::UsbCam::mjpeg2rgb(char*, int, char*, int)[m[K’:
+[25.645s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:142:94:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avcodec_decode_video2(AVCodecContext*, AVFrame*, int*, const AVPacket*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.646s]   142 |   decoded_len = avcodec_decode_video2(avcodec_context_, avframe_camera_, &got_picture, &avpkt[01;35m[K)[m[K;
+[25.657s]       |                                                                                              [01;35m[K^[m[K
+[25.658s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.658s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.660s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:4828:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.660s]  4828 | int [01;36m[Kavcodec_decode_video2[m[K(AVCodecContext *avctx, AVFrame *picture,
+[25.661s]       |     [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[25.661s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:142:94:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avcodec_decode_video2(AVCodecContext*, AVFrame*, int*, const AVPacket*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.661s]   142 |   decoded_len = avcodec_decode_video2(avcodec_context_, avframe_camera_, &got_picture, &avpkt[01;35m[K)[m[K;
+[25.662s]       |                                                                                              [01;35m[K^[m[K
+[25.662s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.663s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.663s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:4828:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.663s]  4828 | int [01;36m[Kavcodec_decode_video2[m[K(AVCodecContext *avctx, AVFrame *picture,
+[25.664s]       |     [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[25.664s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:161:76:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.665s]   161 |   int pic_size = avpicture_get_size(avcodec_context_->pix_fmt, xsize, ysize[01;35m[K)[m[K;
+[25.666s]       |                                                                            [01;35m[K^[m[K
+[25.667s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.667s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.667s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.668s]  5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+[25.668s]       |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[25.668s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:161:76:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_get_size(AVPixelFormat, int, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.669s]   161 |   int pic_size = avpicture_get_size(avcodec_context_->pix_fmt, xsize, ysize[01;35m[K)[m[K;
+[25.669s]       |                                                                            [01;35m[K^[m[K
+[25.669s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.670s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.670s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5510:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.670s]  5510 | int [01;36m[Kavpicture_get_size[m[K(enum AVPixelFormat pix_fmt, int width, int height);
+[25.671s]       |     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[25.671s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:189:70:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_layout(const AVPicture*, AVPixelFormat, int, int, unsigned char*, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.671s]   189 |     xsize, ysize, reinterpret_cast<uint8_t *>(RGB), avframe_rgb_size_[01;35m[K)[m[K;
+[25.672s]       |                                                                      [01;35m[K^[m[K
+[25.672s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.672s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.673s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5502:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.673s]  5502 | int [01;36m[Kavpicture_layout[m[K(const AVPicture *src, enum AVPixelFormat pix_fmt,
+[25.673s]       |     [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[25.674s] [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:189:70:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avpicture_layout(const AVPicture*, AVPixelFormat, int, int, unsigned char*, int)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[25.674s]   189 |     xsize, ysize, reinterpret_cast<uint8_t *>(RGB), avframe_rgb_size_[01;35m[K)[m[K;
+[25.675s]       |                                                                      [01;35m[K^[m[K
+[25.675s] In file included from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/include/usb_cam/usb_cam.hpp:39[m[K,
+[25.676s]                  from [01m[K/home/wheeltec/wheeltec_ros2/src/usb_cam-ros2/src/usb_cam.cpp:31[m[K:
+[25.676s] [01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:5502:5:[m[K [01;36m[Knote: [m[Kdeclared here
+[25.676s]  5502 | int [01;36m[Kavpicture_layout[m[K(const AVPicture *src, enum AVPixelFormat pix_fmt,
+[25.677s]       |     [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[29.224s] [ 33%] [32m[1mLinking CXX shared library libusb_cam.so[0m
+[29.872s] [ 33%] Built target usb_cam
+[29.937s] [35m[1mScanning dependencies of target usb_cam_node_exe[0m
+[30.161s] [ 50%] [32mBuilding CXX object CMakeFiles/usb_cam_node_exe.dir/rclcpp_components/node_main_usb_cam_node_exe.cpp.o[0m
+[43.031s] [ 66%] [32m[1mLinking CXX executable usb_cam_node_exe[0m
+[43.725s] [ 66%] Built target usb_cam_node_exe
+[43.803s] [35m[1mScanning dependencies of target usb_cam_node[0m
+[44.116s] [ 83%] [32mBuilding CXX object CMakeFiles/usb_cam_node.dir/src/usb_cam_node.cpp.o[0m
+[60.322s] [100%] [32m[1mLinking CXX shared library libusb_cam_node.so[0m
+[62.252s] [100%] Built target usb_cam_node
+[62.344s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/usb_cam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/usb_cam -- -j4 -l4
+[62.354s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/usb_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/usb_cam
+[62.447s] -- Install configuration: ""
+[62.449s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/lib/usb_cam/usb_cam_node_exe
+[62.460s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/usb_cam/lib/usb_cam/usb_cam_node_exe" to ""
+[62.461s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/lib/usb_cam/show_image.py
+[62.463s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/include
+[62.463s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/include/usb_cam
+[62.464s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/include/usb_cam/usb_cam_utils.hpp
+[62.466s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/include/usb_cam/usb_cam.hpp
+[62.468s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/include/usb_cam/usb_cam_node.hpp
+[62.469s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/environment/library_path.sh
+[62.470s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/environment/library_path.dsv
+[62.471s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/lib/libusb_cam.so
+[62.472s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/usb_cam/lib/libusb_cam.so" to ""
+[62.472s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/lib/libusb_cam_node.so
+[62.478s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/usb_cam/lib/libusb_cam_node.so" to ""
+[62.478s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/launch
+[62.479s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/launch/usb_cam_launch.py
+[62.482s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/config
+[62.485s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/config/params.yaml
+[62.490s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/config/camera_info.yaml
+[62.492s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/ament_index/resource_index/package_run_dependencies/usb_cam
+[62.493s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/ament_index/resource_index/parent_prefix_path/usb_cam
+[62.496s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/environment/ament_prefix_path.sh
+[62.498s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/environment/ament_prefix_path.dsv
+[62.504s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/environment/path.sh
+[62.505s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/environment/path.dsv
+[62.506s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/local_setup.bash
+[62.507s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/local_setup.sh
+[62.508s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/local_setup.zsh
+[62.509s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/local_setup.dsv
+[62.511s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/package.dsv
+[62.512s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/ament_index/resource_index/packages/usb_cam
+[62.513s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/ament_index/resource_index/rclcpp_components/usb_cam
+[62.515s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/cmake/ament_cmake_export_dependencies-extras.cmake
+[62.516s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/cmake/ament_cmake_export_include_directories-extras.cmake
+[62.525s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/cmake/ament_cmake_export_libraries-extras.cmake
+[62.526s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/cmake/usb_camConfig.cmake
+[62.527s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/cmake/usb_camConfig-version.cmake
+[62.528s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/usb_cam/share/usb_cam/package.xml
+[62.535s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/usb_cam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/usb_cam

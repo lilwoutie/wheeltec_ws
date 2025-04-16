@@ -1,0 +1,30 @@
+[ 11%] Built target wheeltec_rrt_msg__rosidl_generator_c
+[ 12%] Built target wheeltec_rrt_msg__cpp
+[ 23%] Built target wheeltec_rrt_msg__rosidl_typesupport_introspection_c
+[ 34%] Built target wheeltec_rrt_msg__rosidl_typesupport_fastrtps_cpp
+[ 46%] Built target wheeltec_rrt_msg__rosidl_typesupport_introspection_cpp
+[ 57%] Built target wheeltec_rrt_msg__rosidl_typesupport_fastrtps_c
+[ 68%] Built target wheeltec_rrt_msg__rosidl_typesupport_cpp
+[ 79%] Built target wheeltec_rrt_msg__rosidl_typesupport_c
+[ 79%] Built target wheeltec_rrt_msg
+[ 80%] Built target wheeltec_rrt_msg__py
+[35m[1mScanning dependencies of target wheeltec_rrt_msg__python[0m
+[ 82%] [32mBuilding C object CMakeFiles/wheeltec_rrt_msg__python.dir/rosidl_generator_py/wheeltec_rrt_msg/action/_change_position_s.c.o[0m
+[ 84%] [32mBuilding C object CMakeFiles/wheeltec_rrt_msg__python.dir/rosidl_generator_py/wheeltec_rrt_msg/srv/_delete_shape_s.c.o[0m
+[ 85%] [32mBuilding C object CMakeFiles/wheeltec_rrt_msg__python.dir/rosidl_generator_py/wheeltec_rrt_msg/msg/_point_array_s.c.o[0m
+[ 87%] [32mBuilding C object CMakeFiles/wheeltec_rrt_msg__python.dir/rosidl_generator_py/wheeltec_rrt_msg/action/_pick_coloured_box_s.c.o[0m
+[ 88%] [32mBuilding C object CMakeFiles/wheeltec_rrt_msg__python.dir/rosidl_generator_py/wheeltec_rrt_msg/action/_find_coloured_box_s.c.o[0m
+[ 90%] [32m[1mLinking C shared library rosidl_generator_py/wheeltec_rrt_msg/libwheeltec_rrt_msg__python.so[0m
+[ 90%] Built target wheeltec_rrt_msg__python
+[35m[1mScanning dependencies of target wheeltec_rrt_msg__rosidl_typesupport_c__pyext[0m
+[ 92%] [32mBuilding C object CMakeFiles/wheeltec_rrt_msg__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/wheeltec_rrt_msg/_wheeltec_rrt_msg_s.ep.rosidl_typesupport_c.c.o[0m
+[ 93%] [32m[1mLinking C shared library rosidl_generator_py/wheeltec_rrt_msg/wheeltec_rrt_msg_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so[0m
+[ 93%] Built target wheeltec_rrt_msg__rosidl_typesupport_c__pyext
+[35m[1mScanning dependencies of target wheeltec_rrt_msg__rosidl_typesupport_introspection_c__pyext[0m
+[ 95%] [32mBuilding C object CMakeFiles/wheeltec_rrt_msg__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/wheeltec_rrt_msg/_wheeltec_rrt_msg_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[ 96%] [32m[1mLinking C shared library rosidl_generator_py/wheeltec_rrt_msg/wheeltec_rrt_msg_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so[0m
+[ 96%] Built target wheeltec_rrt_msg__rosidl_typesupport_introspection_c__pyext
+[35m[1mScanning dependencies of target wheeltec_rrt_msg__rosidl_typesupport_fastrtps_c__pyext[0m
+[ 98%] [32mBuilding C object CMakeFiles/wheeltec_rrt_msg__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/wheeltec_rrt_msg/_wheeltec_rrt_msg_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[100%] [32m[1mLinking CXX shared library rosidl_generator_py/wheeltec_rrt_msg/wheeltec_rrt_msg_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so[0m
+[100%] Built target wheeltec_rrt_msg__rosidl_typesupport_fastrtps_c__pyext

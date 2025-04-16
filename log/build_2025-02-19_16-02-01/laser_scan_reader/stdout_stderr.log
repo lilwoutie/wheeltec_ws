@@ -1,0 +1,17 @@
+running egg_info
+writing ../build/laser_scan_reader/laser_scan_reader.egg-info/PKG-INFO
+writing dependency_links to ../build/laser_scan_reader/laser_scan_reader.egg-info/dependency_links.txt
+writing requirements to ../build/laser_scan_reader/laser_scan_reader.egg-info/requires.txt
+writing top-level names to ../build/laser_scan_reader/laser_scan_reader.egg-info/top_level.txt
+reading manifest file '../build/laser_scan_reader/laser_scan_reader.egg-info/SOURCES.txt'
+writing manifest file '../build/laser_scan_reader/laser_scan_reader.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/wheeltec/wheeltec_ros2/src/install/laser_scan_reader/lib/python3.8/site-packages/laser_scan_reader-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../build/laser_scan_reader/laser_scan_reader.egg-info to /home/wheeltec/wheeltec_ros2/src/install/laser_scan_reader/lib/python3.8/site-packages/laser_scan_reader-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/wheeltec/wheeltec_ros2/src/build/laser_scan_reader/install.log'

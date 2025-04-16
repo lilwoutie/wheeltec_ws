@@ -1,0 +1,26 @@
+[  9%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/ros_compressed_streamer.cpp.o[0m
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_web_video/src/ros_compressed_streamer.cpp:[m[K In member function ‘[01m[Kvirtual void web_video_server::RosCompressedStreamer::restreamFrame(double)[m[K’:
+[01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_web_video/src/ros_compressed_streamer.cpp:30:45:[m[K [01;35m[Kwarning: [m[K‘[01m[Krclcpp::Duration::Duration(rcl_duration_value_t)[m[K’ is deprecated: Use Duration::from_nanoseconds instead or std::chrono_literals. For example:rclcpp::Duration::from_nanoseconds(int64_variable);rclcpp::Duration(0ns); [[01;35m[K-Wdeprecated-declarations[m[K]
+   30 |   if ( last_frame + rclcpp::Duration(max_age[01;35m[K)[m[K < nh_->now() ) {
+      |                                             [01;35m[K^[m[K
+In file included from [01m[K/opt/ros/galactic/include/rclcpp/qos.hpp:20[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/node_interfaces/node_graph_interface.hpp:31[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/client.hpp:34[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/callback_group.hpp:23[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/any_executable.hpp:20[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/memory_strategy.hpp:25[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/memory_strategies.hpp:18[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/executor_options.hpp:20[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/executor.hpp:36[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/executors/multi_threaded_executor.hpp:26[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/executors.hpp:21[m[K,
+                 from [01m[K/opt/ros/galactic/include/rclcpp/rclcpp.hpp:156[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_web_video/include/web_video_server/image_streamer.h:4[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_web_video/include/web_video_server/ros_compressed_streamer.h:5[m[K,
+                 from [01m[K/home/wheeltec/wheeltec_ros2/src/wheeltec_web_video/src/ros_compressed_streamer.cpp:1[m[K:
+[01m[K/opt/ros/galactic/include/rclcpp/duration.hpp:46:12:[m[K [01;36m[Knote: [m[Kdeclared here
+   46 |   explicit [01;36m[KDuration[m[K(rcl_duration_value_t nanoseconds);
+      |            [01;36m[K^~~~~~~~[m[K
+[ 18%] [32mBuilding CXX object CMakeFiles/web_video_server.dir/src/png_streamers.cpp.o[0m
+[ 27%] [32m[1mLinking CXX executable web_video_server[0m
+[100%] Built target web_video_server

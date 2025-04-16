@@ -1,0 +1,77 @@
+[0.112s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/depend/serial_ros2 -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/serial
+[0.420s] -- The C compiler identification is GNU 9.4.0
+[0.863s] -- The CXX compiler identification is GNU 9.4.0
+[0.909s] -- Check for working C compiler: /usr/bin/cc
+[1.324s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.329s] -- Detecting C compiler ABI info
+[1.725s] -- Detecting C compiler ABI info - done
+[1.780s] -- Detecting C compile features
+[1.782s] -- Detecting C compile features - done
+[1.795s] -- Check for working CXX compiler: /usr/bin/c++
+[2.323s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.335s] -- Detecting CXX compiler ABI info
+[2.768s] -- Detecting CXX compiler ABI info - done
+[2.819s] -- Detecting CXX compile features
+[2.823s] -- Detecting CXX compile features - done
+[2.871s] -- Found rosidl_default_generators: 1.1.1 (/opt/ros/galactic/share/rosidl_default_generators/cmake)
+[2.911s] -- Found ament_cmake_core: 1.1.6 (/opt/ros/galactic/share/ament_cmake_core/cmake)
+[3.039s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.041s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.671s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.842s] -- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[5.315s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[5.508s] -- Found FastRTPS: /opt/ros/galactic/include  
+[6.232s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.816s] -- Configuring done
+[6.855s] -- Generating done
+[6.863s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/src/build/serial
+[6.898s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/depend/serial_ros2 -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/serial
+[6.904s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/serial -- -j4 -l4
+[7.254s] [35m[1mScanning dependencies of target serial[0m
+[7.355s] [ 25%] [32mBuilding CXX object CMakeFiles/serial.dir/src/serial.cc.o[0m
+[9.398s] [ 50%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/list_ports/list_ports_linux.cc.o[0m
+[10.609s] [01m[K/home/wheeltec/wheeltec_ros2/src/depend/serial_ros2/src/impl/list_ports/list_ports_linux.cc:[m[K In function ‘[01m[Kstd::vector<std::__cxx11::basic_string<char> > glob(const std::vector<std::__cxx11::basic_string<char> >&)[m[K’:
+[10.611s] [01m[K/home/wheeltec/wheeltec_ros2/src/depend/serial_ros2/src/impl/list_ports/list_ports_linux.cc:66:40:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+[10.612s]    66 |     for(int path_index = 0; [01;35m[Kpath_index < glob_results.gl_pathc[m[K; path_index++)
+[10.613s]       |                             [01;35m[K~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[10.616s] [01m[K/home/wheeltec/wheeltec_ros2/src/depend/serial_ros2/src/impl/list_ports/list_ports_linux.cc:57:9:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kglob_retval[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+[10.617s]    57 |     int [01;35m[Kglob_retval[m[K = glob(patterns[0].c_str(), 0, NULL, &glob_results);
+[10.618s]       |         [01;35m[K^~~~~~~~~~~[m[K
+[10.636s] [01m[K/home/wheeltec/wheeltec_ros2/src/depend/serial_ros2/src/impl/list_ports/list_ports_linux.cc:[m[K In function ‘[01m[Kstd::string format(const char*, ...)[m[K’:
+[10.637s] [01m[K/home/wheeltec/wheeltec_ros2/src/depend/serial_ros2/src/impl/list_ports/list_ports_linux.cc:246:31:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+[10.638s]   246 |         else if( [01;35m[Kreturn_value >= buffer_size_bytes[m[K )
+[10.640s]       |                  [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[11.516s] [ 75%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/unix.cc.o[0m
+[13.434s] [100%] [32m[1mLinking CXX static library libserial.a[0m
+[13.633s] [100%] Built target serial
+[13.702s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/serial -- -j4 -l4
+[13.706s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/serial
+[13.763s] -- Install configuration: ""
+[13.764s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/lib/libserial.a
+[13.767s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/library_path.sh
+[13.771s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/library_path.dsv
+[13.774s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial
+[13.777s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial/serial.h
+[13.780s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial/impl
+[13.782s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial/impl/unix.h
+[13.784s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial/impl/win.h
+[13.786s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/include/serial/v8stdint.h
+[13.789s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/ament_index/resource_index/package_run_dependencies/serial
+[13.790s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/ament_index/resource_index/parent_prefix_path/serial
+[13.792s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/ament_prefix_path.sh
+[13.794s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/ament_prefix_path.dsv
+[13.797s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/path.sh
+[13.799s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/environment/path.dsv
+[13.801s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/local_setup.bash
+[13.803s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/local_setup.sh
+[13.805s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/local_setup.zsh
+[13.808s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/local_setup.dsv
+[13.808s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/package.dsv
+[13.812s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/ament_index/resource_index/packages/serial
+[13.813s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/cmake/ament_cmake_export_include_directories-extras.cmake
+[13.815s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/cmake/ament_cmake_export_libraries-extras.cmake
+[13.816s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/cmake/ament_cmake_export_dependencies-extras.cmake
+[13.821s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/cmake/serialConfig.cmake
+[13.821s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/cmake/serialConfig-version.cmake
+[13.822s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/serial/share/serial/package.xml
+[13.829s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/serial

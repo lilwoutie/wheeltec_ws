@@ -1,0 +1,131 @@
+[0.166s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_conversions': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/ar_track/ar_track_alvar-ros2-devel/perception_pcl-foxy-devel/perception_pcl-foxy-devel/pcl_conversions -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions
+[0.897s] -- The C compiler identification is GNU 9.4.0
+[1.479s] -- The CXX compiler identification is GNU 9.4.0
+[1.525s] -- Check for working C compiler: /usr/bin/cc
+[1.995s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.998s] -- Detecting C compiler ABI info
+[2.432s] -- Detecting C compiler ABI info - done
+[2.480s] -- Detecting C compile features
+[2.483s] -- Detecting C compile features - done
+[2.492s] -- Check for working CXX compiler: /usr/bin/c++
+[2.949s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.953s] -- Detecting CXX compiler ABI info
+[3.392s] -- Detecting CXX compiler ABI info - done
+[3.461s] -- Detecting CXX compile features
+[3.463s] -- Detecting CXX compile features - done
+[3.529s] -- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+[3.738s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.738s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.673s] -- Found Boost: /usr/lib/aarch64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0")  
+[4.777s] -- Found message_filters: 3.2.6 (/opt/ros/galactic/share/message_filters/cmake)
+[5.477s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.604s] -- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[6.380s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[6.539s] -- Found FastRTPS: /opt/ros/galactic/include  
+[7.176s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[7.765s] -- Found rmw_implementation_cmake: 3.3.1 (/opt/ros/galactic/share/rmw_implementation_cmake/cmake)
+[7.833s] -- Found rmw_cyclonedds_cpp: 0.22.6 (/opt/ros/galactic/share/rmw_cyclonedds_cpp/cmake)
+[7.998s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[8.008s] -- Looking for pthread.h
+[8.496s] -- Looking for pthread.h - found
+[8.497s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[8.902s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[8.903s] -- Looking for pthread_create in pthreads
+[9.277s] -- Looking for pthread_create in pthreads - not found
+[9.279s] -- Looking for pthread_create in pthread
+[9.654s] -- Looking for pthread_create in pthread - found
+[9.660s] -- Found Threads: TRUE  
+[10.882s] -- Checking for module 'eigen3'
+[11.026s] --   Found eigen3, version 3.3.7
+[11.319s] -- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") 
+[11.321s] -- Eigen found (include: /usr/include/eigen3, version: 3.3.7)
+[11.589s] -- Checking for module 'libusb-1.0'
+[11.701s] --   Found libusb-1.0, version 1.0.23
+[11.953s] -- Found USB_10: /usr/lib/aarch64-linux-gnu/libusb-1.0.so  
+[12.384s] -- OpenNI found (include: /usr/include/ni, lib: /usr/lib/libOpenNI.so)
+[12.820s] -- OpenNI2 found (include: /home/wheeltec/wheeltec_ros2/install/astra_camera/include/openni2, lib: /home/wheeltec/wheeltec_ros2/install/astra_camera/lib/libOpenNI2.so)
+[13.256s] -- The imported target "vtkParseOGLExt" references the file
+[13.257s]    "/usr/bin/vtkParseOGLExt-7.1"
+[13.258s] but this file does not exist.  Possible reasons include:
+[13.259s] * The file was deleted, renamed, or moved to another location.
+[13.261s] * An install or uninstall procedure did not complete successfully.
+[13.262s] * The installation package was faulty and contained
+[13.263s]    "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+[13.264s] but not all the files it references.
+[13.266s] 
+[13.273s] -- The imported target "vtkRenderingPythonTkWidgets" references the file
+[13.275s]    "/usr/lib/aarch64-linux-gnu/libvtkRenderingPythonTkWidgets.so"
+[13.276s] but this file does not exist.  Possible reasons include:
+[13.277s] * The file was deleted, renamed, or moved to another location.
+[13.279s] * An install or uninstall procedure did not complete successfully.
+[13.280s] * The installation package was faulty and contained
+[13.282s]    "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+[13.283s] but not all the files it references.
+[13.284s] 
+[13.289s] -- The imported target "vtk" references the file
+[13.290s]    "/usr/bin/vtk"
+[13.292s] but this file does not exist.  Possible reasons include:
+[13.293s] * The file was deleted, renamed, or moved to another location.
+[13.295s] * An install or uninstall procedure did not complete successfully.
+[13.297s] * The installation package was faulty and contained
+[13.298s]    "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+[13.299s] but not all the files it references.
+[13.301s] 
+[13.305s] -- The imported target "pvtk" references the file
+[13.306s]    "/usr/bin/pvtk"
+[13.306s] but this file does not exist.  Possible reasons include:
+[13.307s] * The file was deleted, renamed, or moved to another location.
+[13.308s] * An install or uninstall procedure did not complete successfully.
+[13.319s] * The installation package was faulty and contained
+[13.320s]    "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+[13.320s] but not all the files it references.
+[13.320s] 
+[13.519s] -- Found libusb-1.0: /usr/include  
+[13.534s] -- Found PCL_COMMON: /usr/lib/aarch64-linux-gnu/libpcl_common.so  
+[13.541s] -- Found PCL_OCTREE: /usr/lib/aarch64-linux-gnu/libpcl_octree.so  
+[13.560s] -- Found PCL_IO: /usr/lib/aarch64-linux-gnu/libpcl_io.so  
+[13.653s] -- Found pcl_msgs: 1.0.0 (/opt/ros/galactic/share/pcl_msgs/cmake)
+[15.748s] -- Found ament_cmake_gtest: 1.1.6 (/opt/ros/galactic/share/ament_cmake_gtest/cmake)
+[15.818s] -- Found gtest sources under '/opt/ros/galactic/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[15.840s] -- Check if compiler accepts -pthread
+[16.870s] -- Check if compiler accepts -pthread - yes
+[17.689s] -- Configuring done
+[18.116s] -- Generating done
+[18.299s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/src/build/pcl_conversions
+[18.400s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_conversions' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/ar_track/ar_track_alvar-ros2-devel/perception_pcl-foxy-devel/perception_pcl-foxy-devel/pcl_conversions -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions
+[18.409s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_conversions': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/pcl_conversions -- -j4 -l4
+[19.214s] [35m[1mScanning dependencies of target gtest[0m
+[19.262s] [35m[1mScanning dependencies of target gtest_main[0m
+[19.562s] [ 16%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[19.563s] [ 33%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[28.555s] [ 50%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[29.377s] [ 50%] Built target gtest_main
+[44.628s] [ 66%] [32m[1mLinking CXX static library libgtest.a[0m
+[44.954s] [ 66%] Built target gtest
+[45.020s] [35m[1mScanning dependencies of target pcl_conversions-test[0m
+[45.934s] [ 83%] [32mBuilding CXX object CMakeFiles/pcl_conversions-test.dir/test/test_pcl_conversions.cpp.o[0m
+[92.957s] [100%] [32m[1mLinking CXX executable pcl_conversions-test[0m
+[95.219s] [100%] Built target pcl_conversions-test
+[95.286s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_conversions' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/pcl_conversions -- -j4 -l4
+[95.288s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_conversions': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/pcl_conversions
+[95.357s] -- Install configuration: ""
+[95.358s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/include/pcl_conversions/
+[95.363s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/include/pcl_conversions//pcl_conversions.h
+[95.370s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/ament_index/resource_index/package_run_dependencies/pcl_conversions
+[95.375s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/ament_index/resource_index/parent_prefix_path/pcl_conversions
+[95.380s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/environment/ament_prefix_path.sh
+[95.382s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/environment/ament_prefix_path.dsv
+[95.384s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/environment/path.sh
+[95.386s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/environment/path.dsv
+[95.388s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/local_setup.bash
+[95.392s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/local_setup.sh
+[95.395s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/local_setup.zsh
+[95.398s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/local_setup.dsv
+[95.401s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/package.dsv
+[95.406s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/ament_index/resource_index/packages/pcl_conversions
+[95.408s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/cmake/ament_cmake_export_include_directories-extras.cmake
+[95.409s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/cmake/ament_cmake_export_dependencies-extras.cmake
+[95.410s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/cmake/pcl_conversionsConfig.cmake
+[95.410s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/cmake/pcl_conversionsConfig-version.cmake
+[95.411s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/package.xml
+[95.424s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_conversions' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/pcl_conversions

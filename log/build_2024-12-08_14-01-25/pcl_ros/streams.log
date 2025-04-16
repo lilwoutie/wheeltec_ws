@@ -1,0 +1,224 @@
+[0.198s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_ros': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/wheeltec_slam_toolbox:/home/wheeltec/wheeltec_ros2/install/wheeltec_rrt_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_urdf:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rtab:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt:/home/wheeltec/wheeltec_ros2/install/turn_on_wheeltec_robot:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_nav2:/home/wheeltec/wheeltec_ros2/install/wheeltec_joy:/home/wheeltec/wheeltec_ros2/install/wheeltec_cartographer:/home/wheeltec/wheeltec_ros2/install/web_video_server:/home/wheeltec/wheeltec_ros2/install/usb_cam:/home/wheeltec/wheeltec_ros2/install/slam_gmapping:/home/wheeltec/wheeltec_ros2/install/serial:/home/wheeltec/wheeltec_ros2/install/rplidar_ros2:/home/wheeltec/wheeltec_ros2/install/ros2_astra_camera:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar:/home/wheeltec/wheeltec_ros2/install/perception_pcl:/home/wheeltec/wheeltec_ros2/install/pcl_ros:/home/wheeltec/wheeltec_ros2/install/lslidar_driver:/home/wheeltec/wheeltec_ros2/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/openslam_gmapping:/home/wheeltec/wheeltec_ros2/install/nav2_system_tests:/home/wheeltec/wheeltec_ros2/install/nav2_bringup:/home/wheeltec/wheeltec_ros2/install/navigation2:/home/wheeltec/wheeltec_ros2/install/nav2_dwb_controller:/home/wheeltec/wheeltec_ros2/install/nav2_controller:/home/wheeltec/wheeltec_ros2/install/dwb_plugins:/home/wheeltec/wheeltec_ros2/install/dwb_critics:/home/wheeltec/wheeltec_ros2/install/dwb_core:/home/wheeltec/wheeltec_ros2/install/nav_2d_utils:/home/wheeltec/wheeltec_ros2/install/dwb_msgs:/home/wheeltec/wheeltec_ros2/install/nav_2d_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_follower:/home/wheeltec/wheeltec_ros2/install/nav2_theta_star_planner:/home/wheeltec/wheeltec_ros2/install/nav2_smac_planner:/home/wheeltec/wheeltec_ros2/install/nav2_rotation_shim_controller:/home/wheeltec/wheeltec_ros2/install/nav2_regulated_pure_pursuit_controller:/home/wheeltec/wheeltec_ros2/install/nav2_recoveries:/home/wheeltec/wheeltec_ros2/install/nav2_planner:/home/wheeltec/wheeltec_ros2/install/nav2_navfn_planner:/home/wheeltec/wheeltec_ros2/install/nav2_bt_navigator:/home/wheeltec/wheeltec_ros2/install/nav2_core:/home/wheeltec/wheeltec_ros2/install/costmap_queue:/home/wheeltec/wheeltec_ros2/install/nav2_costmap_2d:/home/wheeltec/wheeltec_ros2/install/nav2_voxel_grid:/home/wheeltec/wheeltec_ros2/install/nav2_rviz_plugins:/home/wheeltec/wheeltec_ros2/install/nav2_map_server:/home/wheeltec/wheeltec_ros2/install/nav2_lifecycle_manager:/home/wheeltec/wheeltec_ros2/install/nav2_behavior_tree:/home/wheeltec/wheeltec_ros2/install/nav2_amcl:/home/wheeltec/wheeltec_ros2/install/nav2_util:/home/wheeltec/wheeltec_ros2/install/nav2_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_common:/home/wheeltec/wheeltec_ros2/install/lsn10:/home/wheeltec/wheeltec_ros2/install/lsm10_v2:/home/wheeltec/wheeltec_ros2/install/lslidar_msgs:/home/wheeltec/wheeltec_ros2/install/lidar_ros2:/home/wheeltec/wheeltec_ros2/install/ldlidar_stl_ros2:/home/wheeltec/wheeltec_ros2/install/astra_msgs:/home/wheeltec/wheeltec_ros2/install/astra_camera:/home/wheeltec/wheeltec_ros2/install/astra_camera_msgs:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar_msgs:/home/wheeltec/wheeltec_ros2/install/ackermann_msgs:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/ar_track/ar_track_alvar-ros2-devel/perception_pcl-foxy-devel/perception_pcl-foxy-devel/pcl_ros -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros
+[0.767s] -- The C compiler identification is GNU 9.4.0
+[1.067s] -- The CXX compiler identification is GNU 9.4.0
+[1.102s] -- Check for working C compiler: /usr/bin/cc
+[1.571s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.575s] -- Detecting C compiler ABI info
+[2.043s] -- Detecting C compiler ABI info - done
+[2.096s] -- Detecting C compile features
+[2.099s] -- Detecting C compile features - done
+[2.112s] -- Check for working CXX compiler: /usr/bin/c++
+[2.551s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.563s] -- Detecting CXX compiler ABI info
+[3.020s] -- Detecting CXX compiler ABI info - done
+[3.079s] -- Detecting CXX compile features
+[3.083s] -- Detecting CXX compile features - done
+[3.243s] -- Checking for module 'eigen3'
+[3.355s] --   Found eigen3, version 3.3.7
+[3.600s] -- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") 
+[3.601s] -- Eigen found (include: /usr/include/eigen3, version: 3.3.7)
+[4.659s] -- Checking for module 'flann'
+[4.800s] --   Found flann, version 1.9.1
+[5.099s] -- Found FLANN: /usr/lib/aarch64-linux-gnu/libflann_cpp.so  
+[5.343s] -- The imported target "vtkParseOGLExt" references the file
+[5.343s]    "/usr/bin/vtkParseOGLExt-7.1"
+[5.344s] but this file does not exist.  Possible reasons include:
+[5.344s] * The file was deleted, renamed, or moved to another location.
+[5.345s] * An install or uninstall procedure did not complete successfully.
+[5.345s] * The installation package was faulty and contained
+[5.345s]    "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+[5.346s] but not all the files it references.
+[5.346s] 
+[5.350s] -- The imported target "vtkRenderingPythonTkWidgets" references the file
+[5.350s]    "/usr/lib/aarch64-linux-gnu/libvtkRenderingPythonTkWidgets.so"
+[5.351s] but this file does not exist.  Possible reasons include:
+[5.351s] * The file was deleted, renamed, or moved to another location.
+[5.352s] * An install or uninstall procedure did not complete successfully.
+[5.353s] * The installation package was faulty and contained
+[5.353s]    "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+[5.353s] but not all the files it references.
+[5.354s] 
+[5.355s] -- The imported target "vtk" references the file
+[5.355s]    "/usr/bin/vtk"
+[5.356s] but this file does not exist.  Possible reasons include:
+[5.356s] * The file was deleted, renamed, or moved to another location.
+[5.356s] * An install or uninstall procedure did not complete successfully.
+[5.357s] * The installation package was faulty and contained
+[5.357s]    "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+[5.357s] but not all the files it references.
+[5.357s] 
+[5.358s] -- The imported target "pvtk" references the file
+[5.358s]    "/usr/bin/pvtk"
+[5.359s] but this file does not exist.  Possible reasons include:
+[5.359s] * The file was deleted, renamed, or moved to another location.
+[5.360s] * An install or uninstall procedure did not complete successfully.
+[5.360s] * The installation package was faulty and contained
+[5.361s]    "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+[5.361s] but not all the files it references.
+[5.362s] 
+[5.499s] -- Checking for module 'libusb-1.0'
+[5.627s] --   Found libusb-1.0, version 1.0.23
+[5.939s] -- Found USB_10: /usr/lib/aarch64-linux-gnu/libusb-1.0.so  
+[6.581s] -- OpenNI found (include: /usr/include/ni, lib: /usr/lib/libOpenNI.so)
+[7.035s] -- OpenNI2 found (include: /home/wheeltec/wheeltec_ros2/install/astra_camera/include/openni2, lib: /home/wheeltec/wheeltec_ros2/install/astra_camera/lib/libOpenNI2.so)
+[7.113s] -- Found libusb-1.0: /usr/include  
+[7.302s] -- Found Qhull: optimized;/usr/lib/aarch64-linux-gnu/libqhull.so;debug;/usr/lib/aarch64-linux-gnu/libqhull.so  
+[7.304s] -- QHULL found (include: /usr/include, lib: optimized;/usr/lib/aarch64-linux-gnu/libqhull.so;debug;/usr/lib/aarch64-linux-gnu/libqhull.so)
+[7.313s] -- Found PCL_COMMON: /usr/lib/aarch64-linux-gnu/libpcl_common.so  
+[7.324s] -- Could NOT find PCL_CORE (missing: PCL_CORE_LIBRARY PCL_CORE_INCLUDE_DIR) 
+[7.332s] -- Found PCL_KDTREE: /usr/lib/aarch64-linux-gnu/libpcl_kdtree.so  
+[7.339s] -- Found PCL_OCTREE: /usr/lib/aarch64-linux-gnu/libpcl_octree.so  
+[7.348s] -- Found PCL_SEARCH: /usr/lib/aarch64-linux-gnu/libpcl_search.so  
+[7.351s] -- Found PCL_2D: /usr/include/pcl-1.10  
+[7.358s] -- Found PCL_FEATURES: /usr/lib/aarch64-linux-gnu/libpcl_features.so  
+[7.367s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/aarch64-linux-gnu/libpcl_sample_consensus.so  
+[7.376s] -- Found PCL_FILTERS: /usr/lib/aarch64-linux-gnu/libpcl_filters.so  
+[7.383s] -- Found PCL_IO: /usr/lib/aarch64-linux-gnu/libpcl_io.so  
+[7.388s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.10  
+[7.395s] -- Found PCL_ML: /usr/lib/aarch64-linux-gnu/libpcl_ml.so  
+[7.404s] -- Found PCL_SEGMENTATION: /usr/lib/aarch64-linux-gnu/libpcl_segmentation.so  
+[7.412s] -- Found PCL_SURFACE: /usr/lib/aarch64-linux-gnu/libpcl_surface.so  
+[7.460s] -- Found ament_cmake_ros: 0.9.2 (/opt/ros/galactic/share/ament_cmake_ros/cmake)
+[7.859s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[7.861s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[8.782s] -- Found pcl_conversions: 2.2.1 (/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/cmake)
+[9.486s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[9.619s] -- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[10.453s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[10.627s] -- Found FastRTPS: /opt/ros/galactic/include  
+[11.263s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[11.848s] -- Found rmw_implementation_cmake: 3.3.1 (/opt/ros/galactic/share/rmw_implementation_cmake/cmake)
+[11.915s] -- Found rmw_cyclonedds_cpp: 0.22.6 (/opt/ros/galactic/share/rmw_cyclonedds_cpp/cmake)
+[12.057s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[12.062s] -- Looking for pthread.h
+[12.466s] -- Looking for pthread.h - found
+[12.467s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[12.939s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[12.941s] -- Looking for pthread_create in pthreads
+[13.299s] -- Looking for pthread_create in pthreads - not found
+[13.301s] -- Looking for pthread_create in pthread
+[13.707s] -- Looking for pthread_create in pthread - found
+[13.707s] -- Found Threads: TRUE  
+[16.146s] -- Found tf2: 0.17.5 (/opt/ros/galactic/share/tf2/cmake)
+[16.321s] -- Found tf2_geometry_msgs: 0.17.5 (/opt/ros/galactic/share/tf2_geometry_msgs/cmake)
+[16.459s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/galactic/share/eigen3_cmake_module/cmake)
+[16.468s] -- Found Eigen3: TRUE (found version "3.3.7") 
+[19.038s] -- Found ament_lint_auto: 0.10.7 (/opt/ros/galactic/share/ament_lint_auto/cmake)
+[19.812s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[19.817s] -- Configured cppcheck include dirs: /home/wheeltec/wheeltec_ros2/src/ar_track/ar_track_alvar-ros2-devel/perception_pcl-foxy-devel/perception_pcl-foxy-devel/pcl_ros/include
+[19.818s] -- Configured cppcheck exclude dirs and/or files: 
+[19.867s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[19.868s] -- Configured cpplint exclude dirs and/or files: 
+[19.878s] -- Added test 'flake8' to check Python code syntax and style conventions
+[19.895s] -- Added test 'lint_cmake' to check CMake code style
+[19.905s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[19.951s] -- Added test 'uncrustify' to check C / C++ code style
+[19.952s] -- Configured uncrustify additional arguments: 
+[19.962s] -- Added test 'xmllint' to check XML markup files
+[19.998s] -- Configuring done
+[20.281s] -- Generating done
+[20.383s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/src/build/pcl_ros
+[20.463s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_ros' returned '0': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/wheeltec_slam_toolbox:/home/wheeltec/wheeltec_ros2/install/wheeltec_rrt_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_urdf:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rtab:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt:/home/wheeltec/wheeltec_ros2/install/turn_on_wheeltec_robot:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_nav2:/home/wheeltec/wheeltec_ros2/install/wheeltec_joy:/home/wheeltec/wheeltec_ros2/install/wheeltec_cartographer:/home/wheeltec/wheeltec_ros2/install/web_video_server:/home/wheeltec/wheeltec_ros2/install/usb_cam:/home/wheeltec/wheeltec_ros2/install/slam_gmapping:/home/wheeltec/wheeltec_ros2/install/serial:/home/wheeltec/wheeltec_ros2/install/rplidar_ros2:/home/wheeltec/wheeltec_ros2/install/ros2_astra_camera:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar:/home/wheeltec/wheeltec_ros2/install/perception_pcl:/home/wheeltec/wheeltec_ros2/install/pcl_ros:/home/wheeltec/wheeltec_ros2/install/lslidar_driver:/home/wheeltec/wheeltec_ros2/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/openslam_gmapping:/home/wheeltec/wheeltec_ros2/install/nav2_system_tests:/home/wheeltec/wheeltec_ros2/install/nav2_bringup:/home/wheeltec/wheeltec_ros2/install/navigation2:/home/wheeltec/wheeltec_ros2/install/nav2_dwb_controller:/home/wheeltec/wheeltec_ros2/install/nav2_controller:/home/wheeltec/wheeltec_ros2/install/dwb_plugins:/home/wheeltec/wheeltec_ros2/install/dwb_critics:/home/wheeltec/wheeltec_ros2/install/dwb_core:/home/wheeltec/wheeltec_ros2/install/nav_2d_utils:/home/wheeltec/wheeltec_ros2/install/dwb_msgs:/home/wheeltec/wheeltec_ros2/install/nav_2d_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_follower:/home/wheeltec/wheeltec_ros2/install/nav2_theta_star_planner:/home/wheeltec/wheeltec_ros2/install/nav2_smac_planner:/home/wheeltec/wheeltec_ros2/install/nav2_rotation_shim_controller:/home/wheeltec/wheeltec_ros2/install/nav2_regulated_pure_pursuit_controller:/home/wheeltec/wheeltec_ros2/install/nav2_recoveries:/home/wheeltec/wheeltec_ros2/install/nav2_planner:/home/wheeltec/wheeltec_ros2/install/nav2_navfn_planner:/home/wheeltec/wheeltec_ros2/install/nav2_bt_navigator:/home/wheeltec/wheeltec_ros2/install/nav2_core:/home/wheeltec/wheeltec_ros2/install/costmap_queue:/home/wheeltec/wheeltec_ros2/install/nav2_costmap_2d:/home/wheeltec/wheeltec_ros2/install/nav2_voxel_grid:/home/wheeltec/wheeltec_ros2/install/nav2_rviz_plugins:/home/wheeltec/wheeltec_ros2/install/nav2_map_server:/home/wheeltec/wheeltec_ros2/install/nav2_lifecycle_manager:/home/wheeltec/wheeltec_ros2/install/nav2_behavior_tree:/home/wheeltec/wheeltec_ros2/install/nav2_amcl:/home/wheeltec/wheeltec_ros2/install/nav2_util:/home/wheeltec/wheeltec_ros2/install/nav2_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_common:/home/wheeltec/wheeltec_ros2/install/lsn10:/home/wheeltec/wheeltec_ros2/install/lsm10_v2:/home/wheeltec/wheeltec_ros2/install/lslidar_msgs:/home/wheeltec/wheeltec_ros2/install/lidar_ros2:/home/wheeltec/wheeltec_ros2/install/ldlidar_stl_ros2:/home/wheeltec/wheeltec_ros2/install/astra_msgs:/home/wheeltec/wheeltec_ros2/install/astra_camera:/home/wheeltec/wheeltec_ros2/install/astra_camera_msgs:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar_msgs:/home/wheeltec/wheeltec_ros2/install/ackermann_msgs:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/ar_track/ar_track_alvar-ros2-devel/perception_pcl-foxy-devel/perception_pcl-foxy-devel/pcl_ros -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/pcl_ros
+[20.467s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_ros': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/wheeltec_slam_toolbox:/home/wheeltec/wheeltec_ros2/install/wheeltec_rrt_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_urdf:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rtab:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt:/home/wheeltec/wheeltec_ros2/install/turn_on_wheeltec_robot:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_nav2:/home/wheeltec/wheeltec_ros2/install/wheeltec_joy:/home/wheeltec/wheeltec_ros2/install/wheeltec_cartographer:/home/wheeltec/wheeltec_ros2/install/web_video_server:/home/wheeltec/wheeltec_ros2/install/usb_cam:/home/wheeltec/wheeltec_ros2/install/slam_gmapping:/home/wheeltec/wheeltec_ros2/install/serial:/home/wheeltec/wheeltec_ros2/install/rplidar_ros2:/home/wheeltec/wheeltec_ros2/install/ros2_astra_camera:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar:/home/wheeltec/wheeltec_ros2/install/perception_pcl:/home/wheeltec/wheeltec_ros2/install/pcl_ros:/home/wheeltec/wheeltec_ros2/install/lslidar_driver:/home/wheeltec/wheeltec_ros2/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/openslam_gmapping:/home/wheeltec/wheeltec_ros2/install/nav2_system_tests:/home/wheeltec/wheeltec_ros2/install/nav2_bringup:/home/wheeltec/wheeltec_ros2/install/navigation2:/home/wheeltec/wheeltec_ros2/install/nav2_dwb_controller:/home/wheeltec/wheeltec_ros2/install/nav2_controller:/home/wheeltec/wheeltec_ros2/install/dwb_plugins:/home/wheeltec/wheeltec_ros2/install/dwb_critics:/home/wheeltec/wheeltec_ros2/install/dwb_core:/home/wheeltec/wheeltec_ros2/install/nav_2d_utils:/home/wheeltec/wheeltec_ros2/install/dwb_msgs:/home/wheeltec/wheeltec_ros2/install/nav_2d_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_follower:/home/wheeltec/wheeltec_ros2/install/nav2_theta_star_planner:/home/wheeltec/wheeltec_ros2/install/nav2_smac_planner:/home/wheeltec/wheeltec_ros2/install/nav2_rotation_shim_controller:/home/wheeltec/wheeltec_ros2/install/nav2_regulated_pure_pursuit_controller:/home/wheeltec/wheeltec_ros2/install/nav2_recoveries:/home/wheeltec/wheeltec_ros2/install/nav2_planner:/home/wheeltec/wheeltec_ros2/install/nav2_navfn_planner:/home/wheeltec/wheeltec_ros2/install/nav2_bt_navigator:/home/wheeltec/wheeltec_ros2/install/nav2_core:/home/wheeltec/wheeltec_ros2/install/costmap_queue:/home/wheeltec/wheeltec_ros2/install/nav2_costmap_2d:/home/wheeltec/wheeltec_ros2/install/nav2_voxel_grid:/home/wheeltec/wheeltec_ros2/install/nav2_rviz_plugins:/home/wheeltec/wheeltec_ros2/install/nav2_map_server:/home/wheeltec/wheeltec_ros2/install/nav2_lifecycle_manager:/home/wheeltec/wheeltec_ros2/install/nav2_behavior_tree:/home/wheeltec/wheeltec_ros2/install/nav2_amcl:/home/wheeltec/wheeltec_ros2/install/nav2_util:/home/wheeltec/wheeltec_ros2/install/nav2_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_common:/home/wheeltec/wheeltec_ros2/install/lsn10:/home/wheeltec/wheeltec_ros2/install/lsm10_v2:/home/wheeltec/wheeltec_ros2/install/lslidar_msgs:/home/wheeltec/wheeltec_ros2/install/lidar_ros2:/home/wheeltec/wheeltec_ros2/install/ldlidar_stl_ros2:/home/wheeltec/wheeltec_ros2/install/astra_msgs:/home/wheeltec/wheeltec_ros2/install/astra_camera:/home/wheeltec/wheeltec_ros2/install/astra_camera_msgs:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar_msgs:/home/wheeltec/wheeltec_ros2/install/ackermann_msgs:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/pcl_ros -- -j4 -l4
+[20.735s] [35m[1mScanning dependencies of target pcl_ros_tf[0m
+[21.334s] [ 50%] [32mBuilding CXX object CMakeFiles/pcl_ros_tf.dir/src/transforms.cpp.o[0m
+[77.501s] [100%] [32m[1mLinking CXX shared library libpcl_ros_tf.so[0m
+[80.661s] [100%] Built target pcl_ros_tf
+[80.757s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_ros' returned '0': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/wheeltec_slam_toolbox:/home/wheeltec/wheeltec_ros2/install/wheeltec_rrt_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_urdf:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rtab:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt:/home/wheeltec/wheeltec_ros2/install/turn_on_wheeltec_robot:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_nav2:/home/wheeltec/wheeltec_ros2/install/wheeltec_joy:/home/wheeltec/wheeltec_ros2/install/wheeltec_cartographer:/home/wheeltec/wheeltec_ros2/install/web_video_server:/home/wheeltec/wheeltec_ros2/install/usb_cam:/home/wheeltec/wheeltec_ros2/install/slam_gmapping:/home/wheeltec/wheeltec_ros2/install/serial:/home/wheeltec/wheeltec_ros2/install/rplidar_ros2:/home/wheeltec/wheeltec_ros2/install/ros2_astra_camera:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar:/home/wheeltec/wheeltec_ros2/install/perception_pcl:/home/wheeltec/wheeltec_ros2/install/pcl_ros:/home/wheeltec/wheeltec_ros2/install/lslidar_driver:/home/wheeltec/wheeltec_ros2/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/openslam_gmapping:/home/wheeltec/wheeltec_ros2/install/nav2_system_tests:/home/wheeltec/wheeltec_ros2/install/nav2_bringup:/home/wheeltec/wheeltec_ros2/install/navigation2:/home/wheeltec/wheeltec_ros2/install/nav2_dwb_controller:/home/wheeltec/wheeltec_ros2/install/nav2_controller:/home/wheeltec/wheeltec_ros2/install/dwb_plugins:/home/wheeltec/wheeltec_ros2/install/dwb_critics:/home/wheeltec/wheeltec_ros2/install/dwb_core:/home/wheeltec/wheeltec_ros2/install/nav_2d_utils:/home/wheeltec/wheeltec_ros2/install/dwb_msgs:/home/wheeltec/wheeltec_ros2/install/nav_2d_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_follower:/home/wheeltec/wheeltec_ros2/install/nav2_theta_star_planner:/home/wheeltec/wheeltec_ros2/install/nav2_smac_planner:/home/wheeltec/wheeltec_ros2/install/nav2_rotation_shim_controller:/home/wheeltec/wheeltec_ros2/install/nav2_regulated_pure_pursuit_controller:/home/wheeltec/wheeltec_ros2/install/nav2_recoveries:/home/wheeltec/wheeltec_ros2/install/nav2_planner:/home/wheeltec/wheeltec_ros2/install/nav2_navfn_planner:/home/wheeltec/wheeltec_ros2/install/nav2_bt_navigator:/home/wheeltec/wheeltec_ros2/install/nav2_core:/home/wheeltec/wheeltec_ros2/install/costmap_queue:/home/wheeltec/wheeltec_ros2/install/nav2_costmap_2d:/home/wheeltec/wheeltec_ros2/install/nav2_voxel_grid:/home/wheeltec/wheeltec_ros2/install/nav2_rviz_plugins:/home/wheeltec/wheeltec_ros2/install/nav2_map_server:/home/wheeltec/wheeltec_ros2/install/nav2_lifecycle_manager:/home/wheeltec/wheeltec_ros2/install/nav2_behavior_tree:/home/wheeltec/wheeltec_ros2/install/nav2_amcl:/home/wheeltec/wheeltec_ros2/install/nav2_util:/home/wheeltec/wheeltec_ros2/install/nav2_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_common:/home/wheeltec/wheeltec_ros2/install/lsn10:/home/wheeltec/wheeltec_ros2/install/lsm10_v2:/home/wheeltec/wheeltec_ros2/install/lslidar_msgs:/home/wheeltec/wheeltec_ros2/install/lidar_ros2:/home/wheeltec/wheeltec_ros2/install/ldlidar_stl_ros2:/home/wheeltec/wheeltec_ros2/install/astra_msgs:/home/wheeltec/wheeltec_ros2/install/astra_camera:/home/wheeltec/wheeltec_ros2/install/astra_camera_msgs:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar_msgs:/home/wheeltec/wheeltec_ros2/install/ackermann_msgs:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/pcl_ros -- -j4 -l4
+[80.760s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_ros': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/wheeltec_slam_toolbox:/home/wheeltec/wheeltec_ros2/install/wheeltec_rrt_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_urdf:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rtab:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt:/home/wheeltec/wheeltec_ros2/install/turn_on_wheeltec_robot:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_nav2:/home/wheeltec/wheeltec_ros2/install/wheeltec_joy:/home/wheeltec/wheeltec_ros2/install/wheeltec_cartographer:/home/wheeltec/wheeltec_ros2/install/web_video_server:/home/wheeltec/wheeltec_ros2/install/usb_cam:/home/wheeltec/wheeltec_ros2/install/slam_gmapping:/home/wheeltec/wheeltec_ros2/install/serial:/home/wheeltec/wheeltec_ros2/install/rplidar_ros2:/home/wheeltec/wheeltec_ros2/install/ros2_astra_camera:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar:/home/wheeltec/wheeltec_ros2/install/perception_pcl:/home/wheeltec/wheeltec_ros2/install/pcl_ros:/home/wheeltec/wheeltec_ros2/install/lslidar_driver:/home/wheeltec/wheeltec_ros2/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/openslam_gmapping:/home/wheeltec/wheeltec_ros2/install/nav2_system_tests:/home/wheeltec/wheeltec_ros2/install/nav2_bringup:/home/wheeltec/wheeltec_ros2/install/navigation2:/home/wheeltec/wheeltec_ros2/install/nav2_dwb_controller:/home/wheeltec/wheeltec_ros2/install/nav2_controller:/home/wheeltec/wheeltec_ros2/install/dwb_plugins:/home/wheeltec/wheeltec_ros2/install/dwb_critics:/home/wheeltec/wheeltec_ros2/install/dwb_core:/home/wheeltec/wheeltec_ros2/install/nav_2d_utils:/home/wheeltec/wheeltec_ros2/install/dwb_msgs:/home/wheeltec/wheeltec_ros2/install/nav_2d_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_follower:/home/wheeltec/wheeltec_ros2/install/nav2_theta_star_planner:/home/wheeltec/wheeltec_ros2/install/nav2_smac_planner:/home/wheeltec/wheeltec_ros2/install/nav2_rotation_shim_controller:/home/wheeltec/wheeltec_ros2/install/nav2_regulated_pure_pursuit_controller:/home/wheeltec/wheeltec_ros2/install/nav2_recoveries:/home/wheeltec/wheeltec_ros2/install/nav2_planner:/home/wheeltec/wheeltec_ros2/install/nav2_navfn_planner:/home/wheeltec/wheeltec_ros2/install/nav2_bt_navigator:/home/wheeltec/wheeltec_ros2/install/nav2_core:/home/wheeltec/wheeltec_ros2/install/costmap_queue:/home/wheeltec/wheeltec_ros2/install/nav2_costmap_2d:/home/wheeltec/wheeltec_ros2/install/nav2_voxel_grid:/home/wheeltec/wheeltec_ros2/install/nav2_rviz_plugins:/home/wheeltec/wheeltec_ros2/install/nav2_map_server:/home/wheeltec/wheeltec_ros2/install/nav2_lifecycle_manager:/home/wheeltec/wheeltec_ros2/install/nav2_behavior_tree:/home/wheeltec/wheeltec_ros2/install/nav2_amcl:/home/wheeltec/wheeltec_ros2/install/nav2_util:/home/wheeltec/wheeltec_ros2/install/nav2_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_common:/home/wheeltec/wheeltec_ros2/install/lsn10:/home/wheeltec/wheeltec_ros2/install/lsm10_v2:/home/wheeltec/wheeltec_ros2/install/lslidar_msgs:/home/wheeltec/wheeltec_ros2/install/lidar_ros2:/home/wheeltec/wheeltec_ros2/install/ldlidar_stl_ros2:/home/wheeltec/wheeltec_ros2/install/astra_msgs:/home/wheeltec/wheeltec_ros2/install/astra_camera:/home/wheeltec/wheeltec_ros2/install/astra_camera_msgs:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar_msgs:/home/wheeltec/wheeltec_ros2/install/ackermann_msgs:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/pcl_ros
+[80.825s] -- Install configuration: ""
+[80.826s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include
+[80.827s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros
+[80.827s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/io
+[80.827s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/io/pcd_io.hpp
+[80.831s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/io/concatenate_data.hpp
+[80.833s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/io/concatenate_fields.hpp
+[80.835s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/io/bag_io.hpp
+[80.837s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/point_cloud.hpp
+[80.839s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/filters
+[80.840s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/filters/statistical_outlier_removal.hpp
+[80.842s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/filters/extract_indices.hpp
+[80.844s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/filters/radius_outlier_removal.hpp
+[80.846s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/filters/voxel_grid.hpp
+[80.847s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/filters/passthrough.hpp
+[80.849s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/filters/project_inliers.hpp
+[80.851s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/filters/crop_box.hpp
+[80.853s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/filters/filter.hpp
+[80.855s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features
+[80.857s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/boundary.hpp
+[80.859s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/vfh.hpp
+[80.861s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/pfh.hpp
+[80.862s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/shot_omp.hpp
+[80.864s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/normal_3d_tbb.hpp
+[80.865s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/fpfh_omp.hpp
+[80.867s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/feature.hpp
+[80.869s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/shot.hpp
+[80.872s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/fpfh.hpp
+[80.874s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/principal_curvatures.hpp
+[80.876s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/normal_3d_omp.hpp
+[80.878s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/normal_3d.hpp
+[80.879s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/features/moment_invariants.hpp
+[80.881s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/impl
+[80.882s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/impl/transforms.hpp
+[80.884s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/publisher.hpp
+[80.885s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/surface
+[80.887s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/surface/convex_hull.hpp
+[80.888s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/surface/moving_least_squares.hpp
+[80.890s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/pcl_nodelet.hpp
+[80.892s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/transforms.hpp
+[80.893s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/segmentation
+[80.895s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/segmentation/segment_differences.hpp
+[80.896s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/segmentation/sac_segmentation.hpp
+[80.899s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/segmentation/extract_clusters.hpp
+[80.901s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/include/pcl_ros/segmentation/extract_polygonal_prism_data.hpp
+[80.904s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/lib/libpcl_ros_tf.so
+[80.918s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/pcl_ros/lib/libpcl_ros_tf.so" to ""
+[80.919s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/plugins
+[80.931s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/plugins/nodelet
+[80.932s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/plugins/nodelet/libpcl_ros_io.xml
+[80.934s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/plugins/nodelet/libpcl_ros_features.xml
+[80.941s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/plugins/nodelet/libpcl_ros_segmentation.xml
+[80.941s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/plugins/nodelet/libpcl_ros_surface.xml
+[80.942s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/plugins/nodelet/libpcl_ros_filters.xml
+[80.943s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples
+[80.944s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros
+[80.944s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/io
+[80.945s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/io/sample_concatenate_data.launch
+[80.946s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/filters
+[80.946s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/filters/config
+[80.947s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/filters/config/statistical_outlier_removal.rviz
+[80.947s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/filters/config/voxel_grid.rviz
+[80.948s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/filters/sample_voxel_grid.launch
+[80.949s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/filters/sample_statistical_outlier_removal.launch
+[80.950s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/features
+[80.950s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/features/sample_normal_3d.launch
+[80.951s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/surface
+[80.951s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/surface/sample_convex_hull.launch
+[80.952s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/segmentation
+[80.952s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/pcl_ros/segmentation/sample_extract_clusters.launch
+[80.953s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/data
+[80.954s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/samples/data/.gitignore
+[80.961s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/environment/library_path.sh
+[80.962s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/environment/library_path.dsv
+[80.963s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/ament_index/resource_index/package_run_dependencies/pcl_ros
+[80.964s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/ament_index/resource_index/parent_prefix_path/pcl_ros
+[80.965s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/environment/ament_prefix_path.sh
+[80.966s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/environment/ament_prefix_path.dsv
+[80.966s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/environment/path.sh
+[80.967s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/environment/path.dsv
+[80.967s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/local_setup.bash
+[80.968s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/local_setup.sh
+[80.972s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/local_setup.zsh
+[80.973s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/local_setup.dsv
+[80.973s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/package.dsv
+[80.979s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/ament_index/resource_index/packages/pcl_ros
+[80.980s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/cmake/export_pcl_rosExport.cmake
+[80.980s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/cmake/export_pcl_rosExport-noconfig.cmake
+[80.981s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/cmake/ament_cmake_export_include_directories-extras.cmake
+[80.982s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/cmake/ament_cmake_export_libraries-extras.cmake
+[80.983s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/cmake/ament_cmake_export_dependencies-extras.cmake
+[80.984s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/cmake/ament_cmake_export_targets-extras.cmake
+[80.985s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/cmake/pcl_rosConfig.cmake
+[80.986s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/cmake/pcl_rosConfig-version.cmake
+[80.986s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_ros/share/pcl_ros/package.xml
+[80.996s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_ros' returned '0': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/wheeltec_slam_toolbox:/home/wheeltec/wheeltec_ros2/install/wheeltec_rrt_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_urdf:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rtab:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt:/home/wheeltec/wheeltec_ros2/install/turn_on_wheeltec_robot:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_nav2:/home/wheeltec/wheeltec_ros2/install/wheeltec_joy:/home/wheeltec/wheeltec_ros2/install/wheeltec_cartographer:/home/wheeltec/wheeltec_ros2/install/web_video_server:/home/wheeltec/wheeltec_ros2/install/usb_cam:/home/wheeltec/wheeltec_ros2/install/slam_gmapping:/home/wheeltec/wheeltec_ros2/install/serial:/home/wheeltec/wheeltec_ros2/install/rplidar_ros2:/home/wheeltec/wheeltec_ros2/install/ros2_astra_camera:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar:/home/wheeltec/wheeltec_ros2/install/perception_pcl:/home/wheeltec/wheeltec_ros2/install/pcl_ros:/home/wheeltec/wheeltec_ros2/install/lslidar_driver:/home/wheeltec/wheeltec_ros2/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/openslam_gmapping:/home/wheeltec/wheeltec_ros2/install/nav2_system_tests:/home/wheeltec/wheeltec_ros2/install/nav2_bringup:/home/wheeltec/wheeltec_ros2/install/navigation2:/home/wheeltec/wheeltec_ros2/install/nav2_dwb_controller:/home/wheeltec/wheeltec_ros2/install/nav2_controller:/home/wheeltec/wheeltec_ros2/install/dwb_plugins:/home/wheeltec/wheeltec_ros2/install/dwb_critics:/home/wheeltec/wheeltec_ros2/install/dwb_core:/home/wheeltec/wheeltec_ros2/install/nav_2d_utils:/home/wheeltec/wheeltec_ros2/install/dwb_msgs:/home/wheeltec/wheeltec_ros2/install/nav_2d_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_follower:/home/wheeltec/wheeltec_ros2/install/nav2_theta_star_planner:/home/wheeltec/wheeltec_ros2/install/nav2_smac_planner:/home/wheeltec/wheeltec_ros2/install/nav2_rotation_shim_controller:/home/wheeltec/wheeltec_ros2/install/nav2_regulated_pure_pursuit_controller:/home/wheeltec/wheeltec_ros2/install/nav2_recoveries:/home/wheeltec/wheeltec_ros2/install/nav2_planner:/home/wheeltec/wheeltec_ros2/install/nav2_navfn_planner:/home/wheeltec/wheeltec_ros2/install/nav2_bt_navigator:/home/wheeltec/wheeltec_ros2/install/nav2_core:/home/wheeltec/wheeltec_ros2/install/costmap_queue:/home/wheeltec/wheeltec_ros2/install/nav2_costmap_2d:/home/wheeltec/wheeltec_ros2/install/nav2_voxel_grid:/home/wheeltec/wheeltec_ros2/install/nav2_rviz_plugins:/home/wheeltec/wheeltec_ros2/install/nav2_map_server:/home/wheeltec/wheeltec_ros2/install/nav2_lifecycle_manager:/home/wheeltec/wheeltec_ros2/install/nav2_behavior_tree:/home/wheeltec/wheeltec_ros2/install/nav2_amcl:/home/wheeltec/wheeltec_ros2/install/nav2_util:/home/wheeltec/wheeltec_ros2/install/nav2_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_common:/home/wheeltec/wheeltec_ros2/install/lsn10:/home/wheeltec/wheeltec_ros2/install/lsm10_v2:/home/wheeltec/wheeltec_ros2/install/lslidar_msgs:/home/wheeltec/wheeltec_ros2/install/lidar_ros2:/home/wheeltec/wheeltec_ros2/install/ldlidar_stl_ros2:/home/wheeltec/wheeltec_ros2/install/astra_msgs:/home/wheeltec/wheeltec_ros2/install/astra_camera:/home/wheeltec/wheeltec_ros2/install/astra_camera_msgs:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar_msgs:/home/wheeltec/wheeltec_ros2/install/ackermann_msgs:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/pcl_ros

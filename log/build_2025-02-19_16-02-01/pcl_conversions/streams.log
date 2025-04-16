@@ -1,0 +1,27 @@
+[0.148s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_conversions': /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/pcl_conversions -- -j4 -l4
+[0.595s] [ 33%] Built target gtest
+[0.614s] [ 66%] Built target gtest_main
+[1.060s] [100%] Built target pcl_conversions-test
+[1.107s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_conversions' returned '0': /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/pcl_conversions -- -j4 -l4
+[1.156s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_conversions': /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/pcl_conversions
+[1.191s] -- Install configuration: ""
+[1.194s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/include/pcl_conversions/
+[1.195s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/include/pcl_conversions//pcl_conversions.h
+[1.197s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/ament_index/resource_index/package_run_dependencies/pcl_conversions
+[1.200s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/ament_index/resource_index/parent_prefix_path/pcl_conversions
+[1.200s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/environment/ament_prefix_path.sh
+[1.201s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/environment/ament_prefix_path.dsv
+[1.201s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/environment/path.sh
+[1.202s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/environment/path.dsv
+[1.202s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/local_setup.bash
+[1.203s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/local_setup.sh
+[1.204s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/local_setup.zsh
+[1.204s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/local_setup.dsv
+[1.205s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/package.dsv
+[1.206s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/ament_index/resource_index/packages/pcl_conversions
+[1.206s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.207s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.207s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/cmake/pcl_conversionsConfig.cmake
+[1.208s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/cmake/pcl_conversionsConfig-version.cmake
+[1.208s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/pcl_conversions/share/pcl_conversions/package.xml
+[1.215s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/pcl_conversions' returned '0': /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/pcl_conversions

@@ -1,0 +1,314 @@
+[0.137s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/dwb_msgs': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs LD_LIBRARY_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs/lib/python3.8/site-packages /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/dwb_msgs -- -j4 -l4
+[0.837s] [  1%] Built target dwb_msgs__cpp
+[0.982s] [ 12%] Built target dwb_msgs__rosidl_generator_c
+[1.192s] [ 24%] Built target dwb_msgs__rosidl_typesupport_introspection_cpp
+[1.192s] [ 35%] Built target dwb_msgs__rosidl_typesupport_cpp
+[1.423s] [ 47%] Built target dwb_msgs__rosidl_typesupport_introspection_c
+[1.430s] [ 58%] Built target dwb_msgs__rosidl_typesupport_fastrtps_cpp
+[1.665s] [ 70%] Built target dwb_msgs__rosidl_typesupport_c
+[1.995s] [ 82%] Built target dwb_msgs__rosidl_typesupport_fastrtps_c
+[2.233s] [ 82%] Built target dwb_msgs
+[2.577s] [ 83%] Built target dwb_msgs__py
+[2.716s] [35m[1mScanning dependencies of target dwb_msgs__python[0m
+[3.057s] [ 84%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/msg/_trajectory2_d_s.c.o[0m
+[3.075s] [ 85%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/msg/_local_plan_evaluation_s.c.o[0m
+[3.105s] [ 86%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/msg/_critic_score_s.c.o[0m
+[3.122s] [ 87%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/msg/_trajectory_score_s.c.o[0m
+[4.057s] [ 88%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/srv/_debug_local_plan_s.c.o[0m
+[4.261s] [ 89%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/srv/_generate_trajectory_s.c.o[0m
+[4.484s] [ 90%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/srv/_generate_twists_s.c.o[0m
+[4.652s] [ 91%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/srv/_get_critic_score_s.c.o[0m
+[5.423s] [ 92%] [32mBuilding C object CMakeFiles/dwb_msgs__python.dir/rosidl_generator_py/dwb_msgs/srv/_score_trajectory_s.c.o[0m
+[6.601s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/dwb_msgs/libdwb_msgs__python.so[0m
+[7.394s] [ 93%] Built target dwb_msgs__python
+[7.599s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[7.599s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_c__pyext[0m
+[7.615s] [35m[1mScanning dependencies of target dwb_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[7.935s] [ 94%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/dwb_msgs/_dwb_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[7.964s] [ 95%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/dwb_msgs/_dwb_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[8.005s] [ 96%] [32mBuilding C object CMakeFiles/dwb_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/dwb_msgs/_dwb_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[9.831s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/dwb_msgs/dwb_msgs_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so[0m
+[9.963s] [ 98%] [32m[1mLinking CXX shared library rosidl_generator_py/dwb_msgs/dwb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so[0m
+[9.973s] [100%] [32m[1mLinking C shared library rosidl_generator_py/dwb_msgs/dwb_msgs_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so[0m
+[10.388s] [100%] Built target dwb_msgs__rosidl_typesupport_c__pyext
+[10.661s] [100%] Built target dwb_msgs__rosidl_typesupport_introspection_c__pyext
+[10.967s] [100%] Built target dwb_msgs__rosidl_typesupport_fastrtps_c__pyext
+[11.099s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/dwb_msgs' returned '0': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs LD_LIBRARY_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs/lib/python3.8/site-packages /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/dwb_msgs -- -j4 -l4
+[11.108s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/dwb_msgs': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs LD_LIBRARY_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs/lib/python3.8/site-packages /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/dwb_msgs
+[11.237s] -- Install configuration: ""
+[11.239s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/ament_index/resource_index/rosidl_interfaces/dwb_msgs
+[11.241s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs
+[11.241s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg
+[11.242s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/local_plan_evaluation.h
+[11.243s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail
+[11.243s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__type_support.h
+[11.244s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__functions.c
+[11.244s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__functions.h
+[11.245s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__struct.h
+[11.245s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__struct.h
+[11.246s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__functions.h
+[11.246s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__functions.c
+[11.246s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__functions.c
+[11.247s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__struct.h
+[11.248s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__type_support.h
+[11.248s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__functions.h
+[11.248s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__type_support.h
+[11.249s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__functions.c
+[11.249s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__functions.h
+[11.250s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__type_support.h
+[11.254s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__struct.h
+[11.254s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/trajectory2_d.h
+[11.255s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/rosidl_generator_c__visibility_control.h
+[11.257s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/critic_score.h
+[11.258s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/trajectory_score.h
+[11.259s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv
+[11.259s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/generate_trajectory.h
+[11.260s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail
+[11.260s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__struct.h
+[11.261s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__functions.h
+[11.261s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__type_support.h
+[11.261s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__functions.c
+[11.262s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__functions.h
+[11.262s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__struct.h
+[11.268s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__type_support.h
+[11.269s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__functions.h
+[11.270s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__struct.h
+[11.270s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__struct.h
+[11.281s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__functions.h
+[11.282s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__type_support.h
+[11.283s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__functions.c
+[11.284s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__functions.c
+[11.284s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__functions.c
+[11.284s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__functions.c
+[11.285s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__type_support.h
+[11.285s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__struct.h
+[11.286s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__type_support.h
+[11.286s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__functions.h
+[11.287s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/generate_twists.h
+[11.287s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/debug_local_plan.h
+[11.287s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/get_critic_score.h
+[11.288s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/score_trajectory.h
+[11.288s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/environment/library_path.sh
+[11.292s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/environment/library_path.dsv
+[11.293s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/libdwb_msgs__rosidl_generator_c.so
+[11.293s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs
+[11.294s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg
+[11.294s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail
+[11.303s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__rosidl_typesupport_fastrtps_c.h
+[11.304s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__rosidl_typesupport_fastrtps_c.h
+[11.313s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__rosidl_typesupport_fastrtps_c.h
+[11.314s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__rosidl_typesupport_fastrtps_c.h
+[11.314s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[11.314s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv
+[11.315s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail
+[11.315s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__rosidl_typesupport_fastrtps_c.h
+[11.316s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__rosidl_typesupport_fastrtps_c.h
+[11.316s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__rosidl_typesupport_fastrtps_c.h
+[11.320s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__rosidl_typesupport_fastrtps_c.h
+[11.320s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__rosidl_typesupport_fastrtps_c.h
+[11.321s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_fastrtps_c.so
+[11.327s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs
+[11.327s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg
+[11.328s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[11.329s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail
+[11.329s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__rosidl_typesupport_fastrtps_cpp.hpp
+[11.330s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__rosidl_typesupport_fastrtps_cpp.hpp
+[11.330s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__rosidl_typesupport_fastrtps_cpp.hpp
+[11.331s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/dds_fastrtps
+[11.331s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__rosidl_typesupport_fastrtps_cpp.hpp
+[11.331s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv
+[11.332s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail
+[11.332s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+[11.332s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__rosidl_typesupport_fastrtps_cpp.hpp
+[11.333s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/dds_fastrtps
+[11.334s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__rosidl_typesupport_fastrtps_cpp.hpp
+[11.336s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+[11.349s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__rosidl_typesupport_fastrtps_cpp.hpp
+[11.350s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_fastrtps_cpp.so
+[11.351s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs
+[11.352s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg
+[11.352s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail
+[11.360s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__type_support.c
+[11.362s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__rosidl_typesupport_introspection_c.h
+[11.362s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__rosidl_typesupport_introspection_c.h
+[11.363s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__type_support.c
+[11.363s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__rosidl_typesupport_introspection_c.h
+[11.363s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__type_support.c
+[11.364s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__type_support.c
+[11.364s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__rosidl_typesupport_introspection_c.h
+[11.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[11.365s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv
+[11.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail
+[11.366s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__type_support.c
+[11.369s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__rosidl_typesupport_introspection_c.h
+[11.369s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__type_support.c
+[11.369s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__rosidl_typesupport_introspection_c.h
+[11.370s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__type_support.c
+[11.373s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__rosidl_typesupport_introspection_c.h
+[11.375s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__type_support.c
+[11.376s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__rosidl_typesupport_introspection_c.h
+[11.377s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__rosidl_typesupport_introspection_c.h
+[11.381s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__type_support.c
+[11.383s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_introspection_c.so
+[11.383s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_c.so
+[11.384s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs
+[11.384s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg
+[11.385s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/trajectory_score.hpp
+[11.385s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail
+[11.386s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__traits.hpp
+[11.386s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__builder.hpp
+[11.387s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__struct.hpp
+[11.387s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__builder.hpp
+[11.387s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__struct.hpp
+[11.394s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__traits.hpp
+[11.394s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__builder.hpp
+[11.395s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__builder.hpp
+[11.395s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__traits.hpp
+[11.395s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__struct.hpp
+[11.396s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__struct.hpp
+[11.396s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__traits.hpp
+[11.400s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/trajectory2_d.hpp
+[11.414s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/critic_score.hpp
+[11.415s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/local_plan_evaluation.hpp
+[11.415s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv
+[11.416s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/generate_twists.hpp
+[11.416s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail
+[11.417s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__traits.hpp
+[11.417s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__struct.hpp
+[11.418s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__builder.hpp
+[11.418s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__traits.hpp
+[11.418s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__struct.hpp
+[11.419s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__traits.hpp
+[11.419s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__builder.hpp
+[11.420s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__traits.hpp
+[11.420s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__builder.hpp
+[11.421s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__traits.hpp
+[11.422s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__struct.hpp
+[11.422s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__builder.hpp
+[11.423s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__struct.hpp
+[11.423s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__builder.hpp
+[11.424s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__struct.hpp
+[11.424s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/get_critic_score.hpp
+[11.429s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/debug_local_plan.hpp
+[11.430s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/generate_trajectory.hpp
+[11.435s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/score_trajectory.hpp
+[11.436s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs
+[11.436s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg
+[11.439s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail
+[11.439s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__rosidl_typesupport_introspection_cpp.hpp
+[11.440s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory2_d__type_support.cpp
+[11.440s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__type_support.cpp
+[11.441s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__rosidl_typesupport_introspection_cpp.hpp
+[11.445s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__type_support.cpp
+[11.445s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/trajectory_score__type_support.cpp
+[11.446s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/critic_score__rosidl_typesupport_introspection_cpp.hpp
+[11.446s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/msg/detail/local_plan_evaluation__rosidl_typesupport_introspection_cpp.hpp
+[11.447s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv
+[11.447s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail
+[11.448s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__type_support.cpp
+[11.448s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__rosidl_typesupport_introspection_cpp.hpp
+[11.449s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__rosidl_typesupport_introspection_cpp.hpp
+[11.449s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/score_trajectory__type_support.cpp
+[11.450s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__type_support.cpp
+[11.455s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/debug_local_plan__rosidl_typesupport_introspection_cpp.hpp
+[11.456s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/get_critic_score__rosidl_typesupport_introspection_cpp.hpp
+[11.458s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__type_support.cpp
+[11.459s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_twists__rosidl_typesupport_introspection_cpp.hpp
+[11.459s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/include/dwb_msgs/srv/detail/generate_trajectory__type_support.cpp
+[11.460s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_introspection_cpp.so
+[11.466s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/libdwb_msgs__rosidl_typesupport_cpp.so
+[11.467s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/environment/pythonpath.sh
+[11.468s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/environment/pythonpath.dsv
+[11.468s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/__init__.py
+[12.104s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg
+[12.106s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/__init__.py
+[12.107s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_trajectory_score.py
+[12.107s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_critic_score.py
+[12.108s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_critic_score_s.c
+[12.108s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_trajectory2_d_s.c
+[12.108s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_local_plan_evaluation.py
+[12.109s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_trajectory_score_s.c
+[12.109s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_trajectory2_d.py
+[12.115s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/msg/_local_plan_evaluation_s.c
+[12.118s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv
+[12.119s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/__init__.py
+[12.122s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_score_trajectory.py
+[12.123s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_score_trajectory_s.c
+[12.124s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_generate_twists.py
+[12.124s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_generate_trajectory_s.c
+[12.125s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_get_critic_score.py
+[12.131s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_debug_local_plan.py
+[12.135s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_generate_trajectory.py
+[12.135s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_get_critic_score_s.c
+[12.136s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_debug_local_plan_s.c
+[12.136s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/srv/_generate_twists_s.c
+[12.137s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so
+[12.149s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so" to ""
+[12.149s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so
+[12.153s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so" to ""
+[12.153s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so
+[12.154s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/python3.8/site-packages/dwb_msgs/dwb_msgs_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so" to ""
+[12.158s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/libdwb_msgs__python.so
+[12.169s] -- Set runtime path of "/home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/lib/libdwb_msgs__python.so" to ""
+[12.170s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/msg/CriticScore.idl
+[12.172s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/msg/LocalPlanEvaluation.idl
+[12.174s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/msg/Trajectory2D.idl
+[12.175s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/msg/TrajectoryScore.idl
+[12.179s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/DebugLocalPlan.idl
+[12.181s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GenerateTrajectory.idl
+[12.182s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GenerateTwists.idl
+[12.184s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GetCriticScore.idl
+[12.185s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/ScoreTrajectory.idl
+[12.189s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/msg/CriticScore.msg
+[12.197s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/msg/LocalPlanEvaluation.msg
+[12.198s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/msg/Trajectory2D.msg
+[12.198s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/msg/TrajectoryScore.msg
+[12.199s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/DebugLocalPlan.srv
+[12.199s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/DebugLocalPlan_Request.msg
+[12.206s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/DebugLocalPlan_Response.msg
+[12.206s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GenerateTrajectory.srv
+[12.207s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GenerateTrajectory_Request.msg
+[12.207s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GenerateTrajectory_Response.msg
+[12.212s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GenerateTwists.srv
+[12.219s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GenerateTwists_Request.msg
+[12.222s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GenerateTwists_Response.msg
+[12.223s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GetCriticScore.srv
+[12.232s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GetCriticScore_Request.msg
+[12.232s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/GetCriticScore_Response.msg
+[12.233s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/ScoreTrajectory.srv
+[12.233s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/ScoreTrajectory_Request.msg
+[12.234s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/srv/ScoreTrajectory_Response.msg
+[12.244s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/ament_index/resource_index/package_run_dependencies/dwb_msgs
+[12.245s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/ament_index/resource_index/parent_prefix_path/dwb_msgs
+[12.249s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/environment/ament_prefix_path.sh
+[12.250s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/environment/ament_prefix_path.dsv
+[12.250s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/environment/path.sh
+[12.251s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/environment/path.dsv
+[12.251s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/local_setup.bash
+[12.252s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/local_setup.sh
+[12.252s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/local_setup.zsh
+[12.252s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/local_setup.dsv
+[12.253s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/package.dsv
+[12.253s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/ament_index/resource_index/packages/dwb_msgs
+[12.254s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_generator_cExport.cmake
+[12.254s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_generator_cExport-noconfig.cmake
+[12.270s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_introspection_cExport.cmake
+[12.270s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[12.275s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_cExport.cmake
+[12.276s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[12.291s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_generator_cppExport.cmake
+[12.296s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[12.296s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[12.297s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_cppExport.cmake
+[12.297s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[12.298s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/rosidl_cmake-extras.cmake
+[12.298s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[12.299s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[12.299s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[12.317s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[12.318s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[12.318s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[12.323s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgsConfig.cmake
+[12.323s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/cmake/dwb_msgsConfig-version.cmake
+[12.334s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/dwb_msgs/share/dwb_msgs/package.xml
+[12.335s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/dwb_msgs' returned '0': AMENT_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs CMAKE_PREFIX_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs LD_LIBRARY_PATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/install/nav_2d_msgs/lib/python3.8/site-packages /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/dwb_msgs

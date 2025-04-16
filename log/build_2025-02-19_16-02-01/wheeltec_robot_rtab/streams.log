@@ -1,0 +1,23 @@
+[0.071s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_robot_rtab': /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/wheeltec_robot_rtab -- -j4 -l4
+[0.354s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_robot_rtab' returned '0': /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/wheeltec_robot_rtab -- -j4 -l4
+[0.365s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_robot_rtab': /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/wheeltec_robot_rtab
+[0.427s] -- Install configuration: ""
+[0.429s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/launch
+[0.431s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/launch/wheeltec_nav2_rtab.launch.py
+[0.432s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/launch/wheeltec_slam_rtab.launch.py
+[0.440s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/ament_index/resource_index/package_run_dependencies/wheeltec_robot_rtab
+[0.442s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/ament_index/resource_index/parent_prefix_path/wheeltec_robot_rtab
+[0.443s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/environment/ament_prefix_path.sh
+[0.444s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/environment/ament_prefix_path.dsv
+[0.446s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/environment/path.sh
+[0.447s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/environment/path.dsv
+[0.448s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/local_setup.bash
+[0.456s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/local_setup.sh
+[0.457s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/local_setup.zsh
+[0.458s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/local_setup.dsv
+[0.459s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/package.dsv
+[0.461s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/ament_index/resource_index/packages/wheeltec_robot_rtab
+[0.463s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/cmake/wheeltec_robot_rtabConfig.cmake
+[0.464s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/cmake/wheeltec_robot_rtabConfig-version.cmake
+[0.465s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/wheeltec_robot_rtab/share/wheeltec_robot_rtab/package.xml
+[0.487s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_robot_rtab' returned '0': /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/wheeltec_robot_rtab

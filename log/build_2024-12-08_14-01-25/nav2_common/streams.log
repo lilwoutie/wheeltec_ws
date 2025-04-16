@@ -1,0 +1,65 @@
+[0.195s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/nav2_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/navigation2-galactic/nav2_common -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/nav2_common
+[0.490s] -- Found ament_cmake_core: 1.1.6 (/opt/ros/galactic/share/ament_cmake_core/cmake)
+[0.701s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.702s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.160s] -- Found ament_cmake_python: 1.1.6 (/opt/ros/galactic/share/ament_cmake_python/cmake)
+[3.484s] -- Configuring done
+[3.492s] -- Generating done
+[3.501s] -- Build files have been written to: /home/wheeltec/wheeltec_ros2/src/build/nav2_common
+[3.513s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/navigation2-galactic/nav2_common -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/nav2_common
+[3.515s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/nav2_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/nav2_common -- -j4 -l4
+[3.754s] [35m[1mScanning dependencies of target ament_cmake_python_copy_nav2_common[0m
+[3.882s] Built target ament_cmake_python_copy_nav2_common
+[3.946s] [35m[1mScanning dependencies of target ament_cmake_python_build_nav2_common_egg[0m
+[5.498s] running egg_info
+[5.501s] creating nav2_common.egg-info
+[5.569s] writing nav2_common.egg-info/PKG-INFO
+[5.572s] writing dependency_links to nav2_common.egg-info/dependency_links.txt
+[5.574s] writing top-level names to nav2_common.egg-info/top_level.txt
+[5.580s] writing manifest file 'nav2_common.egg-info/SOURCES.txt'
+[5.793s] reading manifest file 'nav2_common.egg-info/SOURCES.txt'
+[5.797s] writing manifest file 'nav2_common.egg-info/SOURCES.txt'
+[5.987s] Built target ament_cmake_python_build_nav2_common_egg
+[6.046s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/nav2_common -- -j4 -l4
+[6.141s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/nav2_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/nav2_common
+[6.209s] -- Install configuration: ""
+[6.210s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/environment/pythonpath.sh
+[6.212s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/environment/pythonpath.dsv
+[6.212s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages//nav2_common.egg-info
+[6.214s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages//nav2_common.egg-info/PKG-INFO
+[6.214s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages//nav2_common.egg-info/top_level.txt
+[6.215s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages//nav2_common.egg-info/dependency_links.txt
+[6.215s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages//nav2_common.egg-info/SOURCES.txt
+[6.215s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common
+[6.216s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch
+[6.217s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/__init__.py
+[6.218s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/rewritten_yaml.py
+[6.220s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/replace_string.py
+[6.221s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/has_node_params.py
+[6.223s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/__init__.py
+[6.405s] Listing '/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common'...
+[6.406s] Compiling '/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/__init__.py'...
+[6.406s] Listing '/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch'...
+[6.406s] Compiling '/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/__init__.py'...
+[6.406s] Compiling '/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/has_node_params.py'...
+[6.407s] Compiling '/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/replace_string.py'...
+[6.407s] Compiling '/home/wheeltec/wheeltec_ros2/src/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/rewritten_yaml.py'...
+[6.429s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/ament_index/resource_index/package_run_dependencies/nav2_common
+[6.430s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/ament_index/resource_index/parent_prefix_path/nav2_common
+[6.432s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/environment/ament_prefix_path.sh
+[6.433s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/environment/ament_prefix_path.dsv
+[6.434s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/environment/path.sh
+[6.435s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/environment/path.dsv
+[6.436s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/local_setup.bash
+[6.438s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/local_setup.sh
+[6.439s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/local_setup.zsh
+[6.440s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/local_setup.dsv
+[6.441s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/package.dsv
+[6.443s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/ament_index/resource_index/packages/nav2_common
+[6.444s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/cmake/nav2_common-extras.cmake
+[6.446s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/cmake/nav2_commonConfig.cmake
+[6.448s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/cmake/nav2_commonConfig-version.cmake
+[6.451s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/package.xml
+[6.453s] -- Up-to-date: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/cmake
+[6.455s] -- Installing: /home/wheeltec/wheeltec_ros2/src/install/nav2_common/share/nav2_common/cmake/nav2_package.cmake
+[6.471s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/opt/ros/galactic /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/nav2_common

@@ -1,0 +1,2 @@
+Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_slam_toolbox': /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/wheeltec_slam_toolbox -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/wheeltec_slam_toolbox
+Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/wheeltec_slam_toolbox' returned '1': /usr/bin/cmake /home/wheeltec/wheeltec_ros2/src/wheeltec_robot_slam/wheeltec_slam_toolbox -DCMAKE_INSTALL_PREFIX=/home/wheeltec/wheeltec_ros2/src/install/wheeltec_slam_toolbox

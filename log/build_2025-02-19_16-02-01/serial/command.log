@@ -1,0 +1,4 @@
+Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/serial': /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/serial -- -j4 -l4
+Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/serial' returned '0': /usr/bin/cmake --build /home/wheeltec/wheeltec_ros2/src/build/serial -- -j4 -l4
+Invoking command in '/home/wheeltec/wheeltec_ros2/src/build/serial': /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/serial
+Invoked command in '/home/wheeltec/wheeltec_ros2/src/build/serial' returned '0': /usr/bin/cmake --install /home/wheeltec/wheeltec_ros2/src/build/serial
