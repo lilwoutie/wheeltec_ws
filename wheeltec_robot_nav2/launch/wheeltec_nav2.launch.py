@@ -33,7 +33,7 @@ def generate_launch_description():
     
     #my_param_file = 'param_mini_mec.yaml'
     #changed to a custom file, using senior_mec_dl for the mecabot X dimensions
-    my_param_file = 'param_flagship_mec_dl.yaml'
+    my_param_file = 'param_top_mec_dl.yaml'
     
     #print(" yaml")
     
@@ -66,12 +66,13 @@ def generate_launch_description():
         default_value=os.path.join(my_map_dir, my_map_file),
         description='Full path to map yaml file to load')
 
+#default value false, set to true
     declare_use_sim_time_cmd = DeclareLaunchArgument(
         'use_sim_time',
-        default_value='false',
+        default_value='true',
         description='Use simulation (Gazebo) clock if true')
 
-#changed default value to true 
+#changed default value from false to true 
     declare_slam_cmd = DeclareLaunchArgument(
         'use_slam',
         default_value='false',
@@ -104,9 +105,9 @@ def generate_launch_description():
         PushRosNamespace(
             condition=IfCondition(use_namespace),
             namespace=namespace),
-
+#slam_launch.py was default value --> actual file name = online_sync.launch.py
         IncludeLaunchDescription(
-            PythonLaunchDescriptionSource(os.path.join(my_launch_dir, 'slam_launch.py')),
+            PythonLaunchDescriptionSource(os.path.join(my_launch_dir, 'online_sync.launch.py')),
             condition=IfCondition(use_slam),
             launch_arguments={'namespace': namespace,
                               'use_sim_time': use_sim_time,

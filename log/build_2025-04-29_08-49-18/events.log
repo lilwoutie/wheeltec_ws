@@ -1,0 +1,190 @@
+[0.000000] (-) TimerEvent: {}
+[0.000917] (-) JobUnselected: {'identifier': 'ackermann_msgs'}
+[0.001066] (-) JobUnselected: {'identifier': 'ar_track_alvar'}
+[0.001272] (-) JobUnselected: {'identifier': 'ar_track_alvar_msgs'}
+[0.001421] (-) JobUnselected: {'identifier': 'astra_camera'}
+[0.001546] (-) JobUnselected: {'identifier': 'astra_camera_msgs'}
+[0.001669] (-) JobUnselected: {'identifier': 'beamer'}
+[0.001788] (-) JobUnselected: {'identifier': 'costmap_queue'}
+[0.001907] (-) JobUnselected: {'identifier': 'dwb_core'}
+[0.002023] (-) JobUnselected: {'identifier': 'dwb_critics'}
+[0.002139] (-) JobUnselected: {'identifier': 'dwb_msgs'}
+[0.002502] (-) JobUnselected: {'identifier': 'dwb_plugins'}
+[0.002652] (-) JobUnselected: {'identifier': 'keyboard_control_emer'}
+[0.002780] (-) JobUnselected: {'identifier': 'laser_scan_reader'}
+[0.002900] (-) JobUnselected: {'identifier': 'ldlidar_sl_ros2'}
+[0.003020] (-) JobUnselected: {'identifier': 'ldlidar_stl_ros2'}
+[0.003138] (-) JobUnselected: {'identifier': 'lidar_ros2'}
+[0.003258] (-) JobUnselected: {'identifier': 'lslidar_driver'}
+[0.003373] (-) JobUnselected: {'identifier': 'lslidar_msgs'}
+[0.003491] (-) JobUnselected: {'identifier': 'nav2_amcl'}
+[0.003613] (-) JobUnselected: {'identifier': 'nav2_behavior_tree'}
+[0.003731] (-) JobUnselected: {'identifier': 'nav2_bringup'}
+[0.003848] (-) JobUnselected: {'identifier': 'nav2_bt_navigator'}
+[0.003967] (-) JobUnselected: {'identifier': 'nav2_common'}
+[0.004252] (-) JobUnselected: {'identifier': 'nav2_controller'}
+[0.004389] (-) JobUnselected: {'identifier': 'nav2_core'}
+[0.004511] (-) JobUnselected: {'identifier': 'nav2_costmap_2d'}
+[0.004629] (-) JobUnselected: {'identifier': 'nav2_dwb_controller'}
+[0.004746] (-) JobUnselected: {'identifier': 'nav2_gazebo_spawner'}
+[0.004864] (-) JobUnselected: {'identifier': 'nav2_lifecycle_manager'}
+[0.004980] (-) JobUnselected: {'identifier': 'nav2_map_server'}
+[0.005095] (-) JobUnselected: {'identifier': 'nav2_msgs'}
+[0.005212] (-) JobUnselected: {'identifier': 'nav2_navfn_planner'}
+[0.005387] (-) JobUnselected: {'identifier': 'nav2_planner'}
+[0.005549] (-) JobUnselected: {'identifier': 'nav2_recoveries'}
+[0.005668] (-) JobUnselected: {'identifier': 'nav2_regulated_pure_pursuit_controller'}
+[0.005765] (-) JobUnselected: {'identifier': 'nav2_rotation_shim_controller'}
+[0.005856] (-) JobUnselected: {'identifier': 'nav2_rviz_plugins'}
+[0.006021] (-) JobUnselected: {'identifier': 'nav2_simple_commander'}
+[0.006154] (-) JobUnselected: {'identifier': 'nav2_smac_planner'}
+[0.006342] (-) JobUnselected: {'identifier': 'nav2_system_tests'}
+[0.006478] (-) JobUnselected: {'identifier': 'nav2_theta_star_planner'}
+[0.006601] (-) JobUnselected: {'identifier': 'nav2_util'}
+[0.006732] (-) JobUnselected: {'identifier': 'nav2_voxel_grid'}
+[0.006853] (-) JobUnselected: {'identifier': 'nav2_waypoint_follower'}
+[0.007014] (-) JobUnselected: {'identifier': 'nav_2d_msgs'}
+[0.007145] (-) JobUnselected: {'identifier': 'nav_2d_utils'}
+[0.007277] (-) JobUnselected: {'identifier': 'navigation2'}
+[0.007383] (-) JobUnselected: {'identifier': 'openslam_gmapping'}
+[0.007660] (-) JobUnselected: {'identifier': 'pcl_conversions'}
+[0.007794] (-) JobUnselected: {'identifier': 'pcl_ros'}
+[0.007884] (-) JobUnselected: {'identifier': 'perception_pcl'}
+[0.007996] (-) JobUnselected: {'identifier': 'rplidar_ros2'}
+[0.008097] (-) JobUnselected: {'identifier': 'serial'}
+[0.008345] (-) JobUnselected: {'identifier': 'simple_follower_ros2'}
+[0.008503] (-) JobUnselected: {'identifier': 'slam_gmapping'}
+[0.008689] (-) JobUnselected: {'identifier': 'teleop_twist_keyboard'}
+[0.008812] (-) JobUnselected: {'identifier': 'tf2_tools'}
+[0.008925] (-) JobUnselected: {'identifier': 'turn_on_wheeltec_robot'}
+[0.009032] (-) JobUnselected: {'identifier': 'usb_cam'}
+[0.009177] (-) JobUnselected: {'identifier': 'web_video_server'}
+[0.009309] (-) JobUnselected: {'identifier': 'wheeltec_cartographer'}
+[0.009428] (-) JobUnselected: {'identifier': 'wheeltec_joy'}
+[0.009555] (-) JobUnselected: {'identifier': 'wheeltec_nav2'}
+[0.009831] (-) JobUnselected: {'identifier': 'wheeltec_robot_keyboard'}
+[0.009964] (-) JobUnselected: {'identifier': 'wheeltec_robot_msg'}
+[0.010052] (-) JobUnselected: {'identifier': 'wheeltec_robot_rrt'}
+[0.010161] (-) JobUnselected: {'identifier': 'wheeltec_robot_rtab'}
+[0.010336] (-) JobUnselected: {'identifier': 'wheeltec_robot_urdf'}
+[0.010591] (-) JobUnselected: {'identifier': 'wheeltec_rrt_msg'}
+[0.010724] (-) JobUnselected: {'identifier': 'wheeltec_slam_toolbox'}
+[0.010893] (quiz_status) JobQueued: {'identifier': 'quiz_status', 'dependencies': OrderedDict()}
+[0.011024] (quiz_status) JobStarted: {'identifier': 'quiz_status'}
+[0.096937] (-) TimerEvent: {}
+[0.197687] (-) TimerEvent: {}
+[0.298336] (-) TimerEvent: {}
+[0.398959] (-) TimerEvent: {}
+[0.499606] (-) TimerEvent: {}
+[0.600225] (-) TimerEvent: {}
+[0.700886] (-) TimerEvent: {}
+[0.801461] (-) TimerEvent: {}
+[0.902162] (-) TimerEvent: {}
+[1.003497] (-) TimerEvent: {}
+[1.104151] (-) TimerEvent: {}
+[1.204864] (-) TimerEvent: {}
+[1.305815] (-) TimerEvent: {}
+[1.407080] (-) TimerEvent: {}
+[1.507703] (-) TimerEvent: {}
+[1.608319] (-) TimerEvent: {}
+[1.708963] (-) TimerEvent: {}
+[1.809559] (-) TimerEvent: {}
+[1.911778] (-) TimerEvent: {}
+[2.013223] (-) TimerEvent: {}
+[2.113996] (-) TimerEvent: {}
+[2.214641] (-) TimerEvent: {}
+[2.315771] (-) TimerEvent: {}
+[2.417818] (-) TimerEvent: {}
+[2.518462] (-) TimerEvent: {}
+[2.619050] (-) TimerEvent: {}
+[2.720025] (-) TimerEvent: {}
+[2.820639] (-) TimerEvent: {}
+[2.921261] (-) TimerEvent: {}
+[3.021868] (-) TimerEvent: {}
+[3.122525] (-) TimerEvent: {}
+[3.223170] (-) TimerEvent: {}
+[3.323727] (-) TimerEvent: {}
+[3.424331] (-) TimerEvent: {}
+[3.525151] (-) TimerEvent: {}
+[3.625797] (-) TimerEvent: {}
+[3.726955] (-) TimerEvent: {}
+[3.827593] (-) TimerEvent: {}
+[3.928221] (-) TimerEvent: {}
+[4.028856] (-) TimerEvent: {}
+[4.129541] (-) TimerEvent: {}
+[4.230158] (-) TimerEvent: {}
+[4.330792] (-) TimerEvent: {}
+[4.431403] (-) TimerEvent: {}
+[4.532020] (-) TimerEvent: {}
+[4.632651] (-) TimerEvent: {}
+[4.733291] (-) TimerEvent: {}
+[4.833836] (-) TimerEvent: {}
+[4.934560] (-) TimerEvent: {}
+[5.035279] (-) TimerEvent: {}
+[5.107562] (quiz_status) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/quiz_status', 'build', '--build-base', '/home/wheeltec/wheeltec_ros2/src/build/quiz_status/build', 'install', '--record', '/home/wheeltec/wheeltec_ros2/src/build/quiz_status/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/wheeltec/wheeltec_ros2/src/quiz_status', 'env': {'JETSON_BOARD': 'UNKNOWN', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'JETSON_TYPE': 'TX1', 'USER': 'wheeltec', 'SSH_CLIENT': '192.168.137.204 49208 22', 'LC_TIME': 'en_US.UTF-8', 'JETSON_CUDA': '10.2.89', 'XDG_SESSION_TYPE': 'tty', 'GIT_ASKPASS': '/home/wheeltec/.vscode-server/cli/servers/Stable-4949701c880d4bdb949e3c0e6b400288da7f474b/server/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/home/wheeltec/wheeltec_ros2/install/wheeltec_rrt_msg/lib:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt/lib:/home/wheeltec/wheeltec_ros2/install/turn_on_wheeltec_robot/lib:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_msg/lib:/home/wheeltec/wheeltec_ros2/install/usb_cam/lib:/home/wheeltec/wheeltec_ros2/install/serial/lib:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar/lib:/home/wheeltec/wheeltec_ros2/install/pcl_ros/lib:/home/wheeltec/wheeltec_ros2/install/openslam_gmapping/lib:/home/wheeltec/wheeltec_ros2/install/nav2_controller/lib:/home/wheeltec/wheeltec_ros2/install/dwb_plugins/lib:/home/wheeltec/wheeltec_ros2/install/dwb_critics/lib:/home/wheeltec/wheeltec_ros2/install/dwb_core/lib:/home/wheeltec/wheeltec_ros2/install/nav_2d_utils/lib:/home/wheeltec/wheeltec_ros2/install/dwb_msgs/lib:/home/wheeltec/wheeltec_ros2/install/nav_2d_msgs/lib:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_follower/lib:/home/wheeltec/wheeltec_ros2/install/nav2_theta_star_planner/lib:/home/wheeltec/wheeltec_ros2/install/nav2_smac_planner/lib:/home/wheeltec/wheeltec_ros2/install/nav2_rotation_shim_controller/lib:/home/wheeltec/wheeltec_ros2/install/nav2_regulated_pure_pursuit_controller/lib:/home/wheeltec/wheeltec_ros2/install/nav2_recoveries/lib:/home/wheeltec/wheeltec_ros2/install/nav2_planner/lib:/home/wheeltec/wheeltec_ros2/install/nav2_navfn_planner/lib:/home/wheeltec/wheeltec_ros2/install/nav2_bt_navigator/lib:/home/wheeltec/wheeltec_ros2/install/costmap_queue/lib:/home/wheeltec/wheeltec_ros2/install/nav2_costmap_2d/lib:/home/wheeltec/wheeltec_ros2/install/nav2_voxel_grid/lib:/home/wheeltec/wheeltec_ros2/install/nav2_rviz_plugins/lib:/home/wheeltec/wheeltec_ros2/install/nav2_map_server/lib:/home/wheeltec/wheeltec_ros2/install/nav2_lifecycle_manager/lib:/home/wheeltec/wheeltec_ros2/install/nav2_behavior_tree/lib:/home/wheeltec/wheeltec_ros2/install/nav2_amcl/lib:/home/wheeltec/wheeltec_ros2/install/nav2_util/lib:/home/wheeltec/wheeltec_ros2/install/nav2_msgs/lib:/home/wheeltec/wheeltec_ros2/install/lslidar_msgs/lib:/home/wheeltec/wheeltec_ros2/install/astra_camera/lib:/home/wheeltec/wheeltec_ros2/install/astra_camera_msgs/lib:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar_msgs/lib:/home/wheeltec/wheeltec_ros2/install/ackermann_msgs/lib:/usr/lib/aarch64-linux-gnu/gazebo-11/plugins:/opt/ros/galactic/opt/yaml_cpp_vendor/lib:/opt/ros/galactic/opt/rviz_ogre_vendor/lib:/opt/ros/galactic/lib/aarch64-linux-gnu:/opt/ros/galactic/lib:/home/wheeltec/wheeltec_ros2/src/ros2_astra_camera-main/ros2_astra_camera/lib/openni2_redist/x64', 'BROWSER': '/home/wheeltec/.vscode-server/cli/servers/Stable-4949701c880d4bdb949e3c0e6b400288da7f474b/server/bin/helpers/browser.sh', 'MOTD_SHOWN': 'pam', 'HOME': '/home/wheeltec', 'OLDPWD': '/home/wheeltec/wheeltec_ros2', 'TERM_PROGRAM_VERSION': '1.99.2', 'VSCODE_IPC_HOOK_CLI': '/run/user/1000/vscode-ipc-beeb1bb2-d7de-4627-8178-916a8f18205a.sock', 'JETSON_TENSORRT': '7.1.3.0', 'JETSON_L4T': '32.5.2', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/home/wheeltec/.vscode-server/cli/servers/Stable-4949701c880d4bdb949e3c0e6b400288da7f474b/server/extensions/git/dist/askpass-main.js', 'LC_MONETARY': 'en_US.UTF-8', 'VSCODE_GIT_ASKPASS_NODE': '/home/wheeltec/.vscode-server/cli/servers/Stable-4949701c880d4bdb949e3c0e6b400288da7f474b/server/node', 'ROS_IP': '192.168.137.81', 'SSL_CERT_FILE': '/usr/lib/ssl/certs/ca-certificates.crt', 'JETSON_OPENCV_CUDA': 'NO', 'PYDEVD_DISABLE_FILE_VALIDATION': '1', 'JETSON_VISIONWORKS': '1.6.0.501', 'BUNDLED_DEBUGPY_PATH': '/home/wheeltec/.vscode-server/extensions/ms-python.debugpy-2025.6.0-linux-arm64/bundled/libs/debugpy', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'JETSON_CHIP_ID': '33', 'COLCON_PREFIX_PATH': '/home/wheeltec/wheeltec_ros2/install:/home/wheeltec/KUL_TABLOO/install:/home/wheeltec/KUL_TABLOO/src/install', 'ROS_DISTRO': 'galactic', 'LOGNAME': 'wheeltec', 'JETSON_MODULE': 'P2597-2180', 'JETSON_SERIAL_NUMBER': '0424217025505', 'JETSON_CUDNN': '8.0.0.180', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'JETSON_CODENAME': 'jetson', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '39', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/usr/local/cuda-10.2/bin:/home/wheeltec/.vscode-server/cli/servers/Stable-4949701c880d4bdb949e3c0e6b400288da7f474b/server/bin/remote-cli:/home/wheeltec/.local/bin:/opt/ros/galactic/bin:/usr/local/cuda-10.2/bin:/home/wheeltec/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/wheeltec/.vscode-server/extensions/ms-python.debugpy-2025.6.0-linux-arm64/bundled/scripts/noConfigScripts', 'JETSON_OPENCV': '4.2.0', 'PAPERSIZE': 'letter', 'LC_ADDRESS': 'en_US.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'SSL_CERT_DIR': '/usr/lib/ssl/certs', 'VSCODE_DEBUGPY_ADAPTER_ENDPOINTS': '/home/wheeltec/.vscode-server/extensions/ms-python.debugpy-2025.6.0-linux-arm64/.noConfigDebugAdapterEndpoints/endpoint-6770c4cdf377ed59.txt', 'JETSON_MACHINE': 'NVIDIA Jetson TX1', 'LANG': 'en_US.UTF-8', 'ROS_DOMAIN': '0', 'LC_TELEPHONE': 'en_US.UTF-8', 'JETSON_L4T_REVISION': '5.2', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'JETSON_SOC': 'tegra210', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-3742b6bf7d.sock', 'TERM_PROGRAM': 'vscode', 'AMENT_PREFIX_PATH': '/home/wheeltec/wheeltec_ros2/install/wheeltec_slam_toolbox:/home/wheeltec/wheeltec_ros2/install/wheeltec_rrt_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_urdf:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rtab:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2:/home/wheeltec/wheeltec_ros2/install/turn_on_wheeltec_robot:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard:/home/wheeltec/wheeltec_ros2/install/wheeltec_nav2:/home/wheeltec/wheeltec_ros2/install/wheeltec_joy:/home/wheeltec/wheeltec_ros2/install/wheeltec_cartographer:/home/wheeltec/wheeltec_ros2/install/web_video_server:/home/wheeltec/wheeltec_ros2/install/usb_cam:/home/wheeltec/wheeltec_ros2/install/tf2_tools:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard:/home/wheeltec/wheeltec_ros2/install/slam_gmapping:/home/wheeltec/wheeltec_ros2/install/serial:/home/wheeltec/wheeltec_ros2/install/rplidar_ros2:/home/wheeltec/wheeltec_ros2/install/quiz_status:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar:/home/wheeltec/wheeltec_ros2/install/perception_pcl:/home/wheeltec/wheeltec_ros2/install/pcl_ros:/home/wheeltec/wheeltec_ros2/install/lslidar_driver:/home/wheeltec/wheeltec_ros2/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/openslam_gmapping:/home/wheeltec/wheeltec_ros2/install/nav2_system_tests:/home/wheeltec/wheeltec_ros2/install/nav2_bringup:/home/wheeltec/wheeltec_ros2/install/navigation2:/home/wheeltec/wheeltec_ros2/install/nav2_dwb_controller:/home/wheeltec/wheeltec_ros2/install/nav2_controller:/home/wheeltec/wheeltec_ros2/install/dwb_plugins:/home/wheeltec/wheeltec_ros2/install/dwb_critics:/home/wheeltec/wheeltec_ros2/install/dwb_core:/home/wheeltec/wheeltec_ros2/install/nav_2d_utils:/home/wheeltec/wheeltec_ros2/install/dwb_msgs:/home/wheeltec/wheeltec_ros2/install/nav_2d_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_follower:/home/wheeltec/wheeltec_ros2/install/nav2_theta_star_planner:/home/wheeltec/wheeltec_ros2/install/nav2_smac_planner:/home/wheeltec/wheeltec_ros2/install/nav2_rotation_shim_controller:/home/wheeltec/wheeltec_ros2/install/nav2_regulated_pure_pursuit_controller:/home/wheeltec/wheeltec_ros2/install/nav2_recoveries:/home/wheeltec/wheeltec_ros2/install/nav2_planner:/home/wheeltec/wheeltec_ros2/install/nav2_navfn_planner:/home/wheeltec/wheeltec_ros2/install/nav2_bt_navigator:/home/wheeltec/wheeltec_ros2/install/nav2_core:/home/wheeltec/wheeltec_ros2/install/costmap_queue:/home/wheeltec/wheeltec_ros2/install/nav2_costmap_2d:/home/wheeltec/wheeltec_ros2/install/nav2_voxel_grid:/home/wheeltec/wheeltec_ros2/install/nav2_rviz_plugins:/home/wheeltec/wheeltec_ros2/install/nav2_map_server:/home/wheeltec/wheeltec_ros2/install/nav2_lifecycle_manager:/home/wheeltec/wheeltec_ros2/install/nav2_behavior_tree:/home/wheeltec/wheeltec_ros2/install/nav2_amcl:/home/wheeltec/wheeltec_ros2/install/nav2_util:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander:/home/wheeltec/wheeltec_ros2/install/nav2_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner:/home/wheeltec/wheeltec_ros2/install/nav2_common:/home/wheeltec/wheeltec_ros2/install/lslidar_msgs:/home/wheeltec/wheeltec_ros2/install/lidar_ros2:/home/wheeltec/wheeltec_ros2/install/ldlidar_stl_ros2:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/laser_scan_reader:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer:/home/wheeltec/wheeltec_ros2/install/astra_camera:/home/wheeltec/wheeltec_ros2/install/astra_camera_msgs:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar_msgs:/home/wheeltec/wheeltec_ros2/install/ackermann_msgs:/home/wheeltec/KUL_TABLOO/install/teleop_twist_emer_key:/home/wheeltec/KUL_TABLOO/install/rpi_pub:/home/wheeltec/KUL_TABLOO/install/remote_control_socket:/home/wheeltec/KUL_TABLOO/install/quiz_enable:/home/wheeltec/KUL_TABLOO/install/quiz:/home/wheeltec/KUL_TABLOO/install/heartbeat_monitor:/home/wheeltec/KUL_TABLOO/install/emergency_stop:/home/wheeltec/KUL_TABLOO/install/beamer:/home/wheeltec/KUL_TABLOO/install/actionclient:/home/wheeltec/KUL_TABLOO/src/install/teleop_twist_emer_key:/home/wheeltec/KUL_TABLOO/src/install/rpi_pub:/home/wheeltec/KUL_TABLOO/src/install/ros_final:/home/wheeltec/KUL_TABLOO/src/install/remote_control_socket:/home/wheeltec/KUL_TABLOO/src/install/quiz_enable:/home/wheeltec/KUL_TABLOO/src/install/quiz:/home/wheeltec/KUL_TABLOO/src/install/heartbeat_monitor:/home/wheeltec/KUL_TABLOO/src/install/emergency_stop:/home/wheeltec/KUL_TABLOO/src/install/beamer:/home/wheeltec/KUL_TABLOO/src/install/actionclient:/opt/ros/galactic', 'SHELL': '/bin/bash', 'LC_NAME': 'en_US.UTF-8', 'ROS_MASTER_URI': 'http://192.168.137.81:11311', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'JETSON_BOARDIDS': '', 'LC_MEASUREMENT': 'en_US.UTF-8', 'LC_IDENTIFICATION': 'en_US.UTF-8', 'JETSON_L4T_RELEASE': '32', 'JETSON_VULKAN_INFO': '1.2.131', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'JETSON_CUDA_ARCH_BIN': '5.3', 'PWD': '/home/wheeltec/wheeltec_ros2/src/build/quiz_status', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '192.168.137.204 49208 192.168.137.81 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'JETSON_VPI': 'ii libnvvpi1 1.0.15 arm64 NVIDIA Vision Programming Interface library', 'PYTHONPATH': '/home/wheeltec/wheeltec_ros2/src/build/quiz_status/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/wheeltec_rrt_msg/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/simple_follower_ros2/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/turn_on_wheeltec_robot/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_msg/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_keyboard/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/tf2_tools/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/teleop_twist_keyboard/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/quiz_status/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/dwb_msgs/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/nav_2d_msgs/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/nav2_simple_commander/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/nav2_msgs/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/nav2_gazebo_spawner/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/nav2_common/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/lslidar_msgs/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/laser_scan_reader/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/keyboard_control_emer/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/astra_camera_msgs/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar_msgs/lib/python3.8/site-packages:/home/wheeltec/wheeltec_ros2/install/ackermann_msgs/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/install/teleop_twist_emer_key/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/install/rpi_pub/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/install/remote_control_socket/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/install/quiz_enable/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/install/quiz/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/install/heartbeat_monitor/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/install/emergency_stop/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/install/beamer/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/install/actionclient/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/src/install/teleop_twist_emer_key/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/src/install/rpi_pub/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/src/install/ros_final/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/src/install/remote_control_socket/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/src/install/quiz_enable/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/src/install/quiz/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/src/install/heartbeat_monitor/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/src/install/emergency_stop/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/src/install/beamer/lib/python3.8/site-packages:/home/wheeltec/KUL_TABLOO/src/install/actionclient/lib/python3.8/site-packages:/opt/ros/galactic/lib/python3.8/site-packages', 'LC_NUMERIC': 'en_US.UTF-8', 'LC_PAPER': 'en_US.UTF-8', 'COLCON': '1', 'JETSON_JETPACK': '4.5.1', 'CMAKE_PREFIX_PATH': '/home/wheeltec/wheeltec_ros2/install/wheeltec_slam_toolbox:/home/wheeltec/wheeltec_ros2/install/wheeltec_rrt_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_urdf:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rtab:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_rrt:/home/wheeltec/wheeltec_ros2/install/turn_on_wheeltec_robot:/home/wheeltec/wheeltec_ros2/install/wheeltec_robot_msg:/home/wheeltec/wheeltec_ros2/install/wheeltec_nav2:/home/wheeltec/wheeltec_ros2/install/wheeltec_joy:/home/wheeltec/wheeltec_ros2/install/wheeltec_cartographer:/home/wheeltec/wheeltec_ros2/install/web_video_server:/home/wheeltec/wheeltec_ros2/install/usb_cam:/home/wheeltec/wheeltec_ros2/install/slam_gmapping:/home/wheeltec/wheeltec_ros2/install/serial:/home/wheeltec/wheeltec_ros2/install/rplidar_ros2:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar:/home/wheeltec/wheeltec_ros2/install/perception_pcl:/home/wheeltec/wheeltec_ros2/install/pcl_ros:/home/wheeltec/wheeltec_ros2/install/lslidar_driver:/home/wheeltec/wheeltec_ros2/install/pcl_conversions:/home/wheeltec/wheeltec_ros2/install/openslam_gmapping:/home/wheeltec/wheeltec_ros2/install/nav2_system_tests:/home/wheeltec/wheeltec_ros2/install/nav2_bringup:/home/wheeltec/wheeltec_ros2/install/navigation2:/home/wheeltec/wheeltec_ros2/install/nav2_dwb_controller:/home/wheeltec/wheeltec_ros2/install/nav2_controller:/home/wheeltec/wheeltec_ros2/install/dwb_plugins:/home/wheeltec/wheeltec_ros2/install/dwb_critics:/home/wheeltec/wheeltec_ros2/install/dwb_core:/home/wheeltec/wheeltec_ros2/install/nav_2d_utils:/home/wheeltec/wheeltec_ros2/install/dwb_msgs:/home/wheeltec/wheeltec_ros2/install/nav_2d_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_waypoint_follower:/home/wheeltec/wheeltec_ros2/install/nav2_theta_star_planner:/home/wheeltec/wheeltec_ros2/install/nav2_smac_planner:/home/wheeltec/wheeltec_ros2/install/nav2_rotation_shim_controller:/home/wheeltec/wheeltec_ros2/install/nav2_regulated_pure_pursuit_controller:/home/wheeltec/wheeltec_ros2/install/nav2_recoveries:/home/wheeltec/wheeltec_ros2/install/nav2_planner:/home/wheeltec/wheeltec_ros2/install/nav2_navfn_planner:/home/wheeltec/wheeltec_ros2/install/nav2_bt_navigator:/home/wheeltec/wheeltec_ros2/install/nav2_core:/home/wheeltec/wheeltec_ros2/install/costmap_queue:/home/wheeltec/wheeltec_ros2/install/nav2_costmap_2d:/home/wheeltec/wheeltec_ros2/install/nav2_voxel_grid:/home/wheeltec/wheeltec_ros2/install/nav2_rviz_plugins:/home/wheeltec/wheeltec_ros2/install/nav2_map_server:/home/wheeltec/wheeltec_ros2/install/nav2_lifecycle_manager:/home/wheeltec/wheeltec_ros2/install/nav2_behavior_tree:/home/wheeltec/wheeltec_ros2/install/nav2_amcl:/home/wheeltec/wheeltec_ros2/install/nav2_util:/home/wheeltec/wheeltec_ros2/install/nav2_msgs:/home/wheeltec/wheeltec_ros2/install/nav2_common:/home/wheeltec/wheeltec_ros2/install/lslidar_msgs:/home/wheeltec/wheeltec_ros2/install/lidar_ros2:/home/wheeltec/wheeltec_ros2/install/ldlidar_stl_ros2:/home/wheeltec/wheeltec_ros2/install/ldlidar_sl_ros2:/home/wheeltec/wheeltec_ros2/install/astra_camera:/home/wheeltec/wheeltec_ros2/install/astra_camera_msgs:/home/wheeltec/wheeltec_ros2/install/ar_track_alvar_msgs:/home/wheeltec/wheeltec_ros2/install/ackermann_msgs'}, 'shell': False}
+[5.136329] (-) TimerEvent: {}
+[5.238159] (-) TimerEvent: {}
+[5.338820] (-) TimerEvent: {}
+[5.439378] (-) TimerEvent: {}
+[5.539944] (-) TimerEvent: {}
+[5.640578] (-) TimerEvent: {}
+[5.741244] (-) TimerEvent: {}
+[5.842530] (-) TimerEvent: {}
+[5.943177] (-) TimerEvent: {}
+[6.043866] (-) TimerEvent: {}
+[6.144491] (-) TimerEvent: {}
+[6.245135] (-) TimerEvent: {}
+[6.345715] (-) TimerEvent: {}
+[6.446347] (-) TimerEvent: {}
+[6.546900] (-) TimerEvent: {}
+[6.647480] (-) TimerEvent: {}
+[6.748090] (-) TimerEvent: {}
+[6.848730] (-) TimerEvent: {}
+[6.949391] (-) TimerEvent: {}
+[6.959230] (quiz_status) StdoutLine: {'line': b'running egg_info\n'}
+[6.961723] (quiz_status) StdoutLine: {'line': b'creating ../build/quiz_status/quiz_status.egg-info\n'}
+[7.025099] (quiz_status) StdoutLine: {'line': b'writing ../build/quiz_status/quiz_status.egg-info/PKG-INFO\n'}
+[7.025980] (quiz_status) StdoutLine: {'line': b'writing dependency_links to ../build/quiz_status/quiz_status.egg-info/dependency_links.txt\n'}
+[7.026706] (quiz_status) StdoutLine: {'line': b'writing entry points to ../build/quiz_status/quiz_status.egg-info/entry_points.txt\n'}
+[7.027192] (quiz_status) StdoutLine: {'line': b'writing requirements to ../build/quiz_status/quiz_status.egg-info/requires.txt\n'}
+[7.027606] (quiz_status) StdoutLine: {'line': b'writing top-level names to ../build/quiz_status/quiz_status.egg-info/top_level.txt\n'}
+[7.032469] (quiz_status) StdoutLine: {'line': b"writing manifest file '../build/quiz_status/quiz_status.egg-info/SOURCES.txt'\n"}
+[7.049562] (-) TimerEvent: {}
+[7.150183] (-) TimerEvent: {}
+[7.162266] (quiz_status) StdoutLine: {'line': b"reading manifest file '../build/quiz_status/quiz_status.egg-info/SOURCES.txt'\n"}
+[7.165018] (quiz_status) StdoutLine: {'line': b"writing manifest file '../build/quiz_status/quiz_status.egg-info/SOURCES.txt'\n"}
+[7.165584] (quiz_status) StdoutLine: {'line': b'running build\n'}
+[7.165940] (quiz_status) StdoutLine: {'line': b'running build_py\n'}
+[7.166424] (quiz_status) StdoutLine: {'line': b'creating /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build\n'}
+[7.167051] (quiz_status) StdoutLine: {'line': b'creating /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib\n'}
+[7.167395] (quiz_status) StdoutLine: {'line': b'creating /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib/quiz_status\n'}
+[7.167782] (quiz_status) StdoutLine: {'line': b'copying quiz_status/__init__.py -> /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib/quiz_status\n'}
+[7.168106] (quiz_status) StdoutLine: {'line': b'copying quiz_status/quiz_status.py -> /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib/quiz_status\n'}
+[7.168441] (quiz_status) StdoutLine: {'line': b'running install\n'}
+[7.195106] (quiz_status) StdoutLine: {'line': b'running install_lib\n'}
+[7.250322] (-) TimerEvent: {}
+[7.259449] (quiz_status) StdoutLine: {'line': b'creating /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status\n'}
+[7.260148] (quiz_status) StdoutLine: {'line': b'copying /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib/quiz_status/__init__.py -> /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status\n'}
+[7.260621] (quiz_status) StdoutLine: {'line': b'copying /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib/quiz_status/quiz_status.py -> /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status\n'}
+[7.263680] (quiz_status) StdoutLine: {'line': b'byte-compiling /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status/__init__.py to __init__.cpython-38.pyc\n'}
+[7.264343] (quiz_status) StdoutLine: {'line': b'byte-compiling /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status/quiz_status.py to quiz_status.cpython-38.pyc\n'}
+[7.266104] (quiz_status) StdoutLine: {'line': b'running install_data\n'}
+[7.266924] (quiz_status) StdoutLine: {'line': b'creating /home/wheeltec/wheeltec_ros2/src/install/quiz_status/share/ament_index\n'}
+[7.267490] (quiz_status) StdoutLine: {'line': b'creating /home/wheeltec/wheeltec_ros2/src/install/quiz_status/share/ament_index/resource_index\n'}
+[7.267963] (quiz_status) StdoutLine: {'line': b'creating /home/wheeltec/wheeltec_ros2/src/install/quiz_status/share/ament_index/resource_index/packages\n'}
+[7.268310] (quiz_status) StdoutLine: {'line': b'copying resource/quiz_status -> /home/wheeltec/wheeltec_ros2/src/install/quiz_status/share/ament_index/resource_index/packages\n'}
+[7.268629] (quiz_status) StdoutLine: {'line': b'copying package.xml -> /home/wheeltec/wheeltec_ros2/src/install/quiz_status/share/quiz_status\n'}
+[7.268945] (quiz_status) StdoutLine: {'line': b'running install_egg_info\n'}
+[7.336649] (quiz_status) StdoutLine: {'line': b'Copying ../build/quiz_status/quiz_status.egg-info to /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status-0.0.0-py3.8.egg-info\n'}
+[7.339784] (quiz_status) StdoutLine: {'line': b'running install_scripts\n'}
+[7.350501] (-) TimerEvent: {}
+[7.451077] (-) TimerEvent: {}
+[7.552056] (-) TimerEvent: {}
+[7.652971] (-) TimerEvent: {}
+[7.712120] (quiz_status) StdoutLine: {'line': b'Installing quiz_status script to /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/quiz_status\n'}
+[7.713750] (quiz_status) StdoutLine: {'line': b"writing list of installed files to '/home/wheeltec/wheeltec_ros2/src/build/quiz_status/install.log'\n"}
+[7.753141] (-) TimerEvent: {}
+[7.854242] (-) TimerEvent: {}
+[7.868567] (quiz_status) CommandEnded: {'returncode': 0}
+[7.912560] (quiz_status) JobEnded: {'identifier': 'quiz_status', 'rc': 0}
+[7.914752] (-) EventReactorShutdown: {}

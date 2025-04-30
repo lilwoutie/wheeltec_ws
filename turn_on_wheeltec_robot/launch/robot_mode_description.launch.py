@@ -13,7 +13,7 @@ def generate_launch_description():
     urdf_path = os.path.join(
         get_package_share_directory('wheeltec_robot_urdf'),
         'urdf',
-        'flagship_mec_dl_robot.urdf'  # Adjust URDF filename as needed
+        'top_mec_dl_robot.urdf'  # Adjust URDF filename as needed
     )
     with open(urdf_path, 'r') as f:
         robot_desc = f.read()
@@ -593,6 +593,7 @@ def generate_launch_description():
     #ld.add_action(mini_mec)
     
     #ons model
-    ld.add_action(flagship_mec_dl_robot)
+    #ld.add_action(flagship_mec_dl_robot)
+    ld.add_action(top_mec_dl)
     return ld
 

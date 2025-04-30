@@ -1,0 +1,32 @@
+[5.214s] Invoking command in '/home/wheeltec/wheeltec_ros2/src/kul_tabloo_launch': PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/kul_tabloo_launch build --build-base /home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/build install --record /home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/install.log --single-version-externally-managed install_data
+[7.071s] running egg_info
+[7.074s] creating ../build/kul_tabloo_launch/kul_tabloo_launch.egg-info
+[7.136s] writing ../build/kul_tabloo_launch/kul_tabloo_launch.egg-info/PKG-INFO
+[7.137s] writing dependency_links to ../build/kul_tabloo_launch/kul_tabloo_launch.egg-info/dependency_links.txt
+[7.139s] writing requirements to ../build/kul_tabloo_launch/kul_tabloo_launch.egg-info/requires.txt
+[7.139s] writing top-level names to ../build/kul_tabloo_launch/kul_tabloo_launch.egg-info/top_level.txt
+[7.148s] writing manifest file '../build/kul_tabloo_launch/kul_tabloo_launch.egg-info/SOURCES.txt'
+[7.276s] reading manifest file '../build/kul_tabloo_launch/kul_tabloo_launch.egg-info/SOURCES.txt'
+[7.279s] writing manifest file '../build/kul_tabloo_launch/kul_tabloo_launch.egg-info/SOURCES.txt'
+[7.281s] running build
+[7.282s] running build_py
+[7.283s] creating /home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/build
+[7.283s] creating /home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/build/lib
+[7.284s] creating /home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/build/lib/kul_tabloo_launch
+[7.284s] copying kul_tabloo_launch/__init__.py -> /home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/build/lib/kul_tabloo_launch
+[7.285s] running install
+[7.309s] running install_lib
+[7.373s] creating /home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/lib/python3.8/site-packages/kul_tabloo_launch
+[7.373s] copying /home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/build/lib/kul_tabloo_launch/__init__.py -> /home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/lib/python3.8/site-packages/kul_tabloo_launch
+[7.377s] byte-compiling /home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/lib/python3.8/site-packages/kul_tabloo_launch/__init__.py to __init__.cpython-38.pyc
+[7.377s] running install_data
+[7.378s] creating /home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/share/ament_index
+[7.378s] creating /home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/share/ament_index/resource_index
+[7.379s] creating /home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/share/ament_index/resource_index/packages
+[7.379s] copying resource/kul_tabloo_launch -> /home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/share/ament_index/resource_index/packages
+[7.380s] copying package.xml -> /home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/share/kul_tabloo_launch
+[7.380s] running install_egg_info
+[7.447s] Copying ../build/kul_tabloo_launch/kul_tabloo_launch.egg-info to /home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/lib/python3.8/site-packages/kul_tabloo_launch-0.0.0-py3.8.egg-info
+[7.449s] running install_scripts
+[7.837s] writing list of installed files to '/home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/install.log'
+[7.999s] Invoked command in '/home/wheeltec/wheeltec_ros2/src/kul_tabloo_launch' returned '0': PYTHONPATH=/home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wheeltec/wheeltec_ros2/src/install/kul_tabloo_launch/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/kul_tabloo_launch build --build-base /home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/build install --record /home/wheeltec/wheeltec_ros2/src/build/kul_tabloo_launch/install.log --single-version-externally-managed install_data

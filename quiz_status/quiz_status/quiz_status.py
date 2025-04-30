@@ -10,7 +10,7 @@ class ImposterNode(Node):
         super().__init__('Quiz_status')
         
         # Create ROS 2 publisher
-        self.publisher_ = self.create_publisher(String, 'quiz', 10)
+        self.publisher_ = self.create_publisher(String, 'quiz_status', 10)
         
         # Initialize socket.io client
         self.sio = socketio.Client()
@@ -23,7 +23,7 @@ class ImposterNode(Node):
         self.sio.on('drive_to_quiz_location', self.on_drive_to_quiz_location)
 
         # Connect to the web server
-        self.sio.connect('http://192.168.137.135:80', retry=True)
+        self.sio.connect('http://192.168.0.170:80', retry=True)
 
     def publish_message(self, message):
         """Publishes a message to the 'quiz' topic"""

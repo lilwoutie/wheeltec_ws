@@ -1,0 +1,2 @@
+[console_scripts]
+quiz_status = quiz_status.quiz_status:main

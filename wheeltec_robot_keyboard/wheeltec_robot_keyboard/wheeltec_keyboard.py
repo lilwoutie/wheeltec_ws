@@ -16,7 +16,7 @@ else:
 
 # Constants
 DEFAULT_SPEED = 0.2  # m/s
-DEFAULT_TURN = 1.0   # rad/s
+DEFAULT_TURN = 0.3   # rad/s
 
 # Function to print current velocity
 def print_vels(speed, turn):

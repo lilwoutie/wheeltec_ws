@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/quiz_status/quiz_status.egg-info
+writing ../build/quiz_status/quiz_status.egg-info/PKG-INFO
+writing dependency_links to ../build/quiz_status/quiz_status.egg-info/dependency_links.txt
+writing entry points to ../build/quiz_status/quiz_status.egg-info/entry_points.txt
+writing requirements to ../build/quiz_status/quiz_status.egg-info/requires.txt
+writing top-level names to ../build/quiz_status/quiz_status.egg-info/top_level.txt
+writing manifest file '../build/quiz_status/quiz_status.egg-info/SOURCES.txt'
+reading manifest file '../build/quiz_status/quiz_status.egg-info/SOURCES.txt'
+writing manifest file '../build/quiz_status/quiz_status.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build
+creating /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib
+creating /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib/quiz_status
+copying quiz_status/__init__.py -> /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib/quiz_status
+copying quiz_status/quiz_status.py -> /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib/quiz_status
+running install
+running install_lib
+creating /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status
+copying /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib/quiz_status/__init__.py -> /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status
+copying /home/wheeltec/wheeltec_ros2/src/build/quiz_status/build/lib/quiz_status/quiz_status.py -> /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status
+byte-compiling /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status/quiz_status.py to quiz_status.cpython-38.pyc
+running install_data
+creating /home/wheeltec/wheeltec_ros2/src/install/quiz_status/share/ament_index
+creating /home/wheeltec/wheeltec_ros2/src/install/quiz_status/share/ament_index/resource_index
+creating /home/wheeltec/wheeltec_ros2/src/install/quiz_status/share/ament_index/resource_index/packages
+copying resource/quiz_status -> /home/wheeltec/wheeltec_ros2/src/install/quiz_status/share/ament_index/resource_index/packages
+copying package.xml -> /home/wheeltec/wheeltec_ros2/src/install/quiz_status/share/quiz_status
+running install_egg_info
+Copying ../build/quiz_status/quiz_status.egg-info to /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/python3.8/site-packages/quiz_status-0.0.0-py3.8.egg-info
+running install_scripts
+Installing quiz_status script to /home/wheeltec/wheeltec_ros2/src/install/quiz_status/lib/quiz_status
+writing list of installed files to '/home/wheeltec/wheeltec_ros2/src/build/quiz_status/install.log'
